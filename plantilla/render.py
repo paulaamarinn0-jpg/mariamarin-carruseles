@@ -60,9 +60,35 @@ def page(inner, n, total, foot=True, light_brand=False):
 <div class=top><div class=brand><div>mariamarin<i>.ai</i></div><span>{SERIE}</span></div><div class=count>{n}/{total}</div></div>
 {inner}{f}</div></body></html>"""
 
+# Fotos de portada (plantilla/assets/portadas/) y su encuadre CSS "posición/tamaño".
+# Para agregar una foto nueva: guárdala en esa carpeta y añade su encuadre aquí.
+FOTOS = {
+    "auto.png": "60% 8%/cover",
+    "cocina.jpg": "50% 0%/cover",
+    "luz-roja.jpg": "50% -200px/1080px auto",
+    "lentes.jpg": "-280px 0/auto 1000px no-repeat",
+}
+
+def elegir_foto(json_path):
+    """Rota las fotos: elige la que hace más tiempo no se usa (o nunca se ha usado),
+    mirando publicados/*/contenido.json. Los carruseles sin 'foto' cuentan como auto.png."""
+    repo = os.path.dirname(HERE)
+    pub = os.path.join(repo, "publicados")
+    yo = os.path.abspath(json_path)
+    ultimo = {}
+    for i, d in enumerate(sorted(os.listdir(pub)) if os.path.isdir(pub) else []):
+        f = os.path.join(pub, d, "contenido.json")
+        if os.path.isfile(f) and os.path.abspath(f) != yo:
+            try:
+                ultimo[json.load(open(f, encoding="utf-8"))["portada"].get("foto", "auto.png")] = i
+            except Exception:
+                pass
+    disponibles = [f for f in FOTOS if os.path.isfile(os.path.join(HERE, "assets", "portadas", f))]
+    return min(disponibles, key=lambda f: (ultimo.get(f, -1), list(FOTOS).index(f)))
+
 def portada(c, total):
     return page(f"""
-<div style="position:absolute;inset:0;background:url(assets/portada.png) 60% 8%/cover"></div>
+<div style="position:absolute;inset:0;background:url(assets/portadas/{c['foto']}) {FOTOS.get(c['foto'], 'center top/cover')}"></div>
 <div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(23,12,38,.55) 0%,rgba(23,12,38,0) 16%,rgba(23,12,38,0) 44%,rgba(23,12,38,.85) 58%,#170c26 70%)"></div>
 <div style="position:absolute;left:64px;top:140px" class=tags><div class="tag d">{c['hashtag']}</div></div>
 <div class=sticker style="right:70px;top:430px;font-size:34px;transform:rotate(6deg)">{c.get('sticker','nivel pro ✦')}</div>
@@ -105,6 +131,10 @@ def main(json_path, out_dir):
     global SERIE
     data = json.load(open(json_path, encoding="utf-8"))
     SERIE = data.get("serie", "trucos de IA")
+    if not data["portada"].get("foto"):
+        data["portada"]["foto"] = elegir_foto(json_path)
+        json.dump(data, open(json_path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    print("foto de portada:", data["portada"]["foto"])
     slides = data["slides"]
     total = len(slides) + 2
     pages = [portada(data["portada"], total)] + [contenido(s, i + 2, total) for i, s in enumerate(slides)] + [cierre(data["cierre"], total)]

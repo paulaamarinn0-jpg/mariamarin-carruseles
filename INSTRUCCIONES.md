@@ -5,7 +5,8 @@ Guía que sigue la tarea programada cada vez que corre (día de por medio). Resu
 ## La cuenta
 - @mariamarin.ai: divulgadora de IA, español colombiano. Se presenta como "María".
 - Colores: rosa y morado. La plantilla ya los trae; no cambiar el diseño.
-- Su cara aparece **solo en la portada** (`plantilla/assets/portada.png`). Ninguna otra slide lleva fotos de ella.
+- Su cara aparece **solo en la portada**. Ninguna otra slide lleva fotos de ella.
+- **Foto de portada: rotar, no repetir.** Las fotos están en `plantilla/assets/portadas/` (`cocina.jpg`, `luz-roja.jpg`, `lentes.jpg`, `auto.png`). Deja `portada.foto` **vacío** en `contenido.json`: `render.py` elige sola la foto que hace más tiempo no se usa (mirando `publicados/`) y la guarda en el JSON. Nunca uses la misma foto que el carrusel anterior. Para agregar fotos nuevas: guárdalas en esa carpeta y añade su encuadre en `FOTOS` dentro de `render.py`.
 - Prohibido: contenido tipo "convertí X en imagen con IA", filtros, glow-ups, fotos con IA de mamá/perro. Cada carrusel deja algo útil o sorprendente.
 
 ## 1. Buscar el tema
@@ -27,7 +28,7 @@ Temas: noticias de IA, apps, trucos y funciones ocultas **de cualquier herramien
 - Llena un `contenido.json` con la estructura de `plantilla/ejemplo.json` (portada, slides, cierre). `serie` es la etiqueta del encabezado (p. ej. "noticias IA", "apps de IA", "trucos de IA").
 - `grafico` de cada slide: un mockup en HTML (420 px de alto, 952 px de ancho) que ilustre la idea, como en el ejemplo. Clases disponibles: `win` + `bar` (ventana de app), `note` (post-it amarillo), `sticker` (etiqueta rosa), `tag`. Variables de color: `--pink`, `--vio`, `--lila`, `--card`, `--line`, `--dk`. No usar logos ni imágenes de marcas; los nombres de apps van como texto. No uses emojis de color (la fuente no los tiene); ✦ ✓ → sí funcionan.
 - Renderiza: `python3 plantilla/render.py contenido.json salida/` (necesita `pip install playwright --break-system-packages && python3 -m playwright install chromium` si no está).
-- **Revisa cada slide visualmente** (ábrela con Read). Corrige texto cortado, solapado o desbordado antes de seguir.
+- **Revisa cada slide visualmente** (en la portada, que la cara no quede tapada por el título) (ábrela con Read). Corrige texto cortado, solapado o desbordado antes de seguir.
 
 ## 4. Subir y programar
 1. Copia las slides a `publicados/AAAA-MM-DD/` (`slide-1.jpg`…) junto con `contenido.json` y `descripcion.txt`. Commit y push a `main`.
