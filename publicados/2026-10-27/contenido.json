@@ -1,0 +1,61 @@
+{
+ "serie": "trucos de IA",
+ "portada": {
+  "hashtag": "#TRUCOSIA",
+  "sticker": "gratis ✦",
+  "titulo_px": 100,
+  "titulo": "4 funciones de IA <em style=\"font-style:italic;color:var(--pink)\">escondidas</em> en apps que ya tienes.",
+  "subtitulo": "Instagram, Spotify, Google Translate y NotebookLM + cómo activarlas hoy",
+  "foto": "luz-roja.jpg"
+ },
+ "slides": [
+  {
+   "num": "01",
+   "etiqueta": "INSTAGRAM",
+   "titulo": "Tus reels, <em>en inglés</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:560px;height:395px\">\n<div class=bar><i></i><i></i><i></i><span>Nuevo reel</span></div>\n<div style=\"padding:24px 28px\">\n <div style=\"display:flex;justify-content:space-between;align-items:center;padding:16px 0;border-bottom:2px solid var(--line);font-size:23px\"><span>Etiquetar personas</span><span style=\"color:var(--mute)\">›</span></div>\n <div style=\"display:flex;justify-content:space-between;align-items:center;padding:18px 0;border-bottom:2px solid var(--line)\"><span style=\"font-size:23px;font-weight:700\">Traducir tu voz<br><span style=\"font-weight:400;color:var(--mute);font-size:19px\">con Meta AI</span></span><div style=\"width:72px;height:40px;border-radius:999px;background:var(--pink);position:relative\"><div style=\"position:absolute;right:4px;top:4px;width:32px;height:32px;border-radius:50%;background:#fff\"></div></div></div>\n <div style=\"display:flex;justify-content:space-between;align-items:center;padding:18px 0\"><span style=\"font-size:23px;font-weight:700\">Sincronizar labios</span><div style=\"width:72px;height:40px;border-radius:999px;background:var(--vio);position:relative\"><div style=\"position:absolute;right:4px;top:4px;width:32px;height:32px;border-radius:50%;background:#fff\"></div></div></div>\n <div style=\"margin-top:10px;background:#fff;color:var(--bg);font-weight:700;font-size:24px;padding:14px;border-radius:14px;text-align:center\">Compartir</div>\n</div></div>\n<div class=win style=\"right:0;top:70px;width:350px;padding:22px;transform:rotate(3deg);z-index:3\">\n <div style=\"font-family:JB;font-size:16px;color:var(--mute)\">TU VOZ · ESPAÑOL</div>\n <div style=\"font-size:24px;margin-top:8px\">\"Hoy les traigo un truco…\"</div>\n <div style=\"font-family:JB;font-size:16px;color:var(--pink);margin-top:16px\">TU VOZ · INGLÉS ✦</div>\n <div style=\"font-size:24px;margin-top:8px;font-weight:700\">\"Today I'm bringing you a trick…\"</div></div>\n<div class=sticker style=\"right:30px;top:300px;font-size:28px;transform:rotate(-4deg);z-index:4\">con tu misma voz</div>",
+   "texto": "Meta AI dobla tu voz al inglés (o al revés) y hasta mueve tus labios. <b>Gratis en cuentas públicas</b>.",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "Antes de compartir tu <span class=v>reel</span>, activa \"Traducir tu voz con Meta AI\" y elige el idioma."
+  },
+  {
+   "num": "02",
+   "etiqueta": "SPOTIFY",
+   "titulo": "Un DJ que te <em>obedece</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:600px;height:395px\">\n<div class=bar><i></i><i></i><i></i><span>DJ</span></div>\n<div style=\"padding:24px 28px\">\n <div style=\"margin-left:auto;width:max-content;max-width:470px;background:var(--lila);padding:14px 20px;border-radius:20px 20px 4px 20px;font-size:23px\">Ponme salsa para limpiar la casa</div>\n <div style=\"display:flex;gap:14px;margin-top:20px\">\n  <div style=\"width:46px;height:46px;border-radius:50%;background:linear-gradient(135deg,var(--pink),var(--vio));flex:none;color:#fff;display:flex;align-items:center;justify-content:center;font-size:22px\">DJ</div>\n  <div style=\"background:rgba(255,255,255,.08);padding:14px 20px;border-radius:4px 20px 20px 20px;font-size:23px;line-height:1.4\">¡Listo! Arrancamos con salsa clásica para que la limpieza fluya…</div>\n </div>\n <div style=\"display:flex;align-items:center;gap:16px;margin-top:26px;background:rgba(255,255,255,.06);padding:14px 18px;border-radius:16px\"><div style=\"width:58px;height:58px;border-radius:12px;background:linear-gradient(135deg,var(--vio),var(--pink))\"></div><div><div style=\"font-weight:700;font-size:22px\">Salsa para la casa</div><div style=\"height:8px;width:300px;border-radius:9px;background:rgba(255,255,255,.12);margin-top:12px;overflow:hidden\"><div style=\"width:40%;height:100%;background:var(--pink)\"></div></div></div></div>\n</div></div>\n<div class=note style=\"right:0;top:80px;width:300px;transform:rotate(4deg);z-index:3\">Pídele por voz<br>o escribiendo<br>en español ✓</div>",
+   "texto": "El DJ de Spotify ya <b>entiende peticiones en español</b>: le dices el plan y arma la música.",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "Busca \"DJ\" → play → toca el botón DJ y escribe: \"Ponme <span class=v>salsa para limpiar</span>\". (Premium)"
+  },
+  {
+   "num": "03",
+   "etiqueta": "GOOGLE TRANSLATE",
+   "titulo": "Practica inglés <em>hablando</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:580px;height:395px\">\n<div class=bar><i></i><i></i><i></i><span>Traductor · Practicar</span></div>\n<div style=\"padding:22px 28px\">\n <div style=\"display:flex;gap:10px\"><span style=\"font-family:JB;font-size:17px;background:var(--pinks);color:var(--pink);padding:7px 14px;border-radius:999px\">Inglés</span><span style=\"font-family:JB;font-size:17px;background:var(--lila);color:#d9c8ff;padding:7px 14px;border-radius:999px\">Intermedio</span></div>\n <div style=\"font-family:Fr;font-weight:900;font-size:32px;margin-top:18px\">Pedir en un restaurante</div>\n <div style=\"background:rgba(255,255,255,.08);padding:14px 18px;border-radius:4px 18px 18px 18px;font-size:22px;margin-top:16px;width:max-content\">What would you like to order?</div>\n <div style=\"display:flex;align-items:center;gap:16px;margin-top:22px\"><div style=\"width:74px;height:74px;border-radius:50%;background:var(--pink);display:flex;align-items:center;justify-content:center\"><span style=\"font-family:JB;font-weight:500;font-size:20px;color:#fff\">HABLA</span></div><div style=\"display:flex;gap:6px;align-items:center\"><i style=\"display:block;width:7px;height:20px;background:var(--pink2);border-radius:4px\"></i><i style=\"display:block;width:7px;height:40px;background:var(--pink2);border-radius:4px\"></i><i style=\"display:block;width:7px;height:28px;background:var(--pink2);border-radius:4px\"></i><i style=\"display:block;width:7px;height:46px;background:var(--pink2);border-radius:4px\"></i><i style=\"display:block;width:7px;height:24px;background:var(--pink2);border-radius:4px\"></i><i style=\"display:block;width:7px;height:36px;background:var(--pink2);border-radius:4px\"></i></div><span style=\"font-size:20px;color:var(--mute)\">Tu turno…</span></div>\n</div></div>\n<div class=win style=\"right:0;top:150px;width:330px;padding:22px;transform:rotate(3deg);z-index:3\">\n <div style=\"font-family:JB;font-size:16px;color:var(--mute)\">TU PROGRESO</div>\n <div style=\"font-weight:700;font-size:26px;margin-top:8px;line-height:1.25\">Racha de 5 días ✦</div>\n <div style=\"margin-top:14px;height:12px;border-radius:9px;background:rgba(255,255,255,.12);overflow:hidden\"><div style=\"width:70%;height:100%;background:linear-gradient(90deg,var(--pink),var(--vio))\"></div></div></div>\n<div class=sticker style=\"right:40px;top:20px;font-size:28px;transform:rotate(-5deg)\">tipo Duolingo</div>",
+   "texto": "El Traductor de Google tiene una pestaña escondida para <b>conversar con una IA en inglés</b> a tu nivel.",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "App Traductor → pestaña \"Practicar\" → elige <span class=v>nivel</span> y una situación (beta, gratis)."
+  },
+  {
+   "num": "04",
+   "etiqueta": "NOTEBOOKLM",
+   "titulo": "Tu PDF hecho <em>podcast</em>",
+   "grafico": "<div class=win style=\"left:0;top:30px;width:300px;height:340px;padding:24px;transform:rotate(-3deg)\">\n <div style=\"font-family:JB;font-size:16px;color:var(--mute)\">FUENTE</div>\n <div style=\"font-weight:700;font-size:24px;margin-top:10px\">informe-final.pdf</div>\n <div style=\"margin-top:18px;display:flex;flex-direction:column;gap:12px\"><i style=\"display:block;height:10px;border-radius:6px;background:rgba(255,255,255,.14)\"></i><i style=\"display:block;height:10px;width:85%;border-radius:6px;background:rgba(255,255,255,.14)\"></i><i style=\"display:block;height:10px;border-radius:6px;background:rgba(255,255,255,.14)\"></i><i style=\"display:block;height:10px;width:70%;border-radius:6px;background:rgba(255,255,255,.14)\"></i><i style=\"display:block;height:10px;border-radius:6px;background:rgba(255,255,255,.14)\"></i><i style=\"display:block;height:10px;width:60%;border-radius:6px;background:rgba(255,255,255,.14)\"></i></div></div>\n<div style=\"position:absolute;left:330px;top:160px;font-size:60px;color:var(--pink);font-weight:700\">→</div>\n<div class=win style=\"right:0;top:10px;width:520px;height:395px\">\n<div class=bar><i></i><i></i><i></i><span>Resumen en audio</span></div>\n<div style=\"padding:24px 28px\">\n <div style=\"font-family:Fr;font-weight:900;font-size:32px\">Tu informe, en 8 minutos</div>\n <div style=\"font-size:20px;color:var(--mute);margin-top:8px\">2 voces conversando · Español</div>\n <div style=\"display:flex;gap:5px;align-items:center;height:80px;margin-top:20px\"><i style=\"display:block;width:8px;height:30px;background:var(--pink);border-radius:4px\"></i><i style=\"display:block;width:8px;height:60px;background:var(--pink);border-radius:4px\"></i><i style=\"display:block;width:8px;height:44px;background:var(--pink);border-radius:4px\"></i><i style=\"display:block;width:8px;height:72px;background:var(--pink);border-radius:4px\"></i><i style=\"display:block;width:8px;height:38px;background:var(--pink);border-radius:4px\"></i><i style=\"display:block;width:8px;height:56px;background:var(--vio);border-radius:4px\"></i><i style=\"display:block;width:8px;height:24px;background:var(--vio);border-radius:4px\"></i><i style=\"display:block;width:8px;height:64px;background:var(--vio);border-radius:4px\"></i><i style=\"display:block;width:8px;height:40px;background:var(--vio);border-radius:4px\"></i><i style=\"display:block;width:8px;height:52px;background:var(--vio);border-radius:4px\"></i><i style=\"display:block;width:8px;height:28px;background:rgba(255,255,255,.2);border-radius:4px\"></i><i style=\"display:block;width:8px;height:46px;background:rgba(255,255,255,.2);border-radius:4px\"></i><i style=\"display:block;width:8px;height:34px;background:rgba(255,255,255,.2);border-radius:4px\"></i><i style=\"display:block;width:8px;height:58px;background:rgba(255,255,255,.2);border-radius:4px\"></i><i style=\"display:block;width:8px;height:22px;background:rgba(255,255,255,.2);border-radius:4px\"></i></div>\n <div style=\"display:flex;align-items:center;gap:14px;margin-top:22px\"><div style=\"width:60px;height:60px;border-radius:50%;background:#fff;color:var(--bg);display:flex;align-items:center;justify-content:center;font-size:26px\">▶</div><span style=\"font-family:JB;font-size:18px;color:var(--mute)\">03:12 / 08:05</span></div>\n</div></div>\n<div class=note style=\"left:20px;top:300px;transform:rotate(-4deg);font-size:24px;z-index:4\">para oír en el bus ✓</div>",
+   "texto": "Sube un PDF, apuntes o un link y NotebookLM te arma <b>un podcast de dos voces en español</b>.",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "notebooklm.google → sube tu <span class=v>PDF</span> → idioma de salida: Español → \"Resumen en audio\"."
+  }
+ ],
+ "cierre": {
+  "mini": "trucos",
+  "titulo": "¿Quieres los<br><em>4 pasos?</em>",
+  "palabra": "TRUCOS",
+  "promesa": "y te mando los pasos + los links por DM ✦",
+  "items": [
+   "Reels en inglés",
+   "DJ de Spotify",
+   "Practicar inglés",
+   "PDF a podcast"
+  ]
+ }
+}
