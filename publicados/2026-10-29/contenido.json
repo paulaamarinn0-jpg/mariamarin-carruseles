@@ -1,0 +1,61 @@
+{
+ "serie": "noticias IA",
+ "portada": {
+  "hashtag": "#SIRIAI",
+  "sticker": "ya en español ✦",
+  "titulo_px": 100,
+  "titulo": "Siri dejó de ser <em style=\"font-style:italic;color:var(--pink)\">inútil</em> (y ahora habla español).",
+  "subtitulo": "4 cosas que ya le puedes pedir con la nueva Siri con IA de iOS 27.2",
+  "foto": "lentes.jpg"
+ },
+ "slides": [
+  {
+   "num": "01",
+   "etiqueta": "IOS 27.2 · 26 OCT",
+   "titulo": "Siri con IA, <em>en español</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:560px;height:395px\">\n<div class=bar><i></i><i></i><i></i><span>Ajustes</span></div>\n<div style=\"padding:22px 28px\">\n <div style=\"font-family:Fr;font-weight:900;font-size:30px;margin-bottom:8px\">Apple Intelligence y Siri</div>\n <div style=\"display:flex;justify-content:space-between;align-items:center;padding:16px 0;border-bottom:2px solid var(--line);font-size:23px\"><span>Siri</span><div style=\"width:72px;height:40px;border-radius:999px;background:var(--pink);position:relative\"><div style=\"position:absolute;right:4px;top:4px;width:32px;height:32px;border-radius:50%;background:#fff\"></div></div></div>\n <div style=\"display:flex;justify-content:space-between;align-items:center;padding:16px 0;border-bottom:2px solid var(--line);font-size:23px\"><span>Idioma</span><span style=\"color:var(--pink);font-weight:700\">Español ›</span></div>\n <div style=\"display:flex;justify-content:space-between;align-items:center;padding:16px 0;font-size:23px\"><span>Actualización</span><span style=\"color:var(--mute)\">iOS 27.2 ✓</span></div>\n</div></div>\n<div class=win style=\"right:0;top:90px;width:340px;padding:22px;transform:rotate(3deg);z-index:3\">\n <div style=\"font-family:JB;font-size:16px;color:var(--mute)\">FUNCIONA EN</div>\n <div style=\"font-weight:700;font-size:25px;margin-top:10px;line-height:1.35\">iPhone 15 Pro,<br>15 Pro Max<br>y iPhone 16 o más ✦</div></div>\n<div class=sticker style=\"right:20px;top:310px;font-size:28px;transform:rotate(-4deg);z-index:4\">beta</div>",
+   "texto": "Desde el 26 de octubre la Siri con IA de Apple <b>entiende y responde en español</b> (en beta).",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "Actualiza a iOS 27.2 → Ajustes → Apple Intelligence y Siri → idioma: <span class=v>Español</span>."
+  },
+  {
+   "num": "02",
+   "etiqueta": "CONTEXTO PERSONAL",
+   "titulo": "Busca en <em>tus cosas</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:600px;height:395px\">\n<div class=bar><i></i><i></i><i></i><span>Siri</span></div>\n<div style=\"padding:24px 28px\">\n <div style=\"margin-left:auto;width:max-content;max-width:480px;background:var(--lila);padding:14px 20px;border-radius:20px 20px 4px 20px;font-size:23px\">¿Qué receta me mandó mi mamá?</div>\n <div style=\"display:flex;gap:14px;margin-top:20px\">\n  <div style=\"width:46px;height:46px;border-radius:50%;background:linear-gradient(135deg,var(--pink),var(--vio));flex:none\"></div>\n  <div style=\"background:rgba(255,255,255,.08);padding:14px 20px;border-radius:4px 20px 20px 20px;font-size:23px;line-height:1.4\">En Mensajes, el sábado te mandó la del arroz con coco…</div>\n </div>\n <div style=\"display:flex;gap:10px;margin-top:22px\"><span style=\"font-family:JB;font-size:17px;background:var(--pinks);color:var(--pink);padding:7px 14px;border-radius:999px\">Mensajes</span><span style=\"font-family:JB;font-size:17px;background:var(--lila);color:#d9c8ff;padding:7px 14px;border-radius:999px\">Correo</span><span style=\"font-family:JB;font-size:17px;background:var(--pinks);color:var(--pink);padding:7px 14px;border-radius:999px\">Fotos</span></div>\n</div></div>\n<div class=note style=\"right:0;top:90px;width:290px;transform:rotate(4deg);z-index:3\">sin abrir<br>chat por chat ✓</div>",
+   "texto": "La nueva Siri <b>busca en tus mensajes, correos y fotos</b> para encontrar lo que necesitas.",
+   "caja_titulo": "PÍDELE ASÍ",
+   "caja_texto": "\"Oye Siri, ¿qué <span class=v>receta</span> me mandó <span class=v>mi mamá</span> por mensaje?\""
+  },
+  {
+   "num": "03",
+   "etiqueta": "LEE TU PANTALLA",
+   "titulo": "Entiende lo que <em>estás viendo</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:470px;height:395px\">\n<div class=bar><i></i><i></i><i></i><span>Safari · Calendario liga</span></div>\n<div style=\"padding:20px 26px\">\n <div style=\"display:flex;justify-content:space-between;padding:13px 0;border-bottom:2px solid var(--line);font-size:22px\"><span>Vs. Junior</span><span style=\"font-family:JB;color:var(--mute)\">2 NOV</span></div>\n <div style=\"display:flex;justify-content:space-between;padding:13px 0;border-bottom:2px solid var(--line);font-size:22px\"><span>Vs. Millonarios</span><span style=\"font-family:JB;color:var(--mute)\">9 NOV</span></div>\n <div style=\"display:flex;justify-content:space-between;padding:13px 0;border-bottom:2px solid var(--line);font-size:22px\"><span>Vs. Santa Fe</span><span style=\"font-family:JB;color:var(--mute)\">16 NOV</span></div>\n <div style=\"display:flex;justify-content:space-between;padding:13px 0;font-size:22px\"><span>Vs. Nacional</span><span style=\"font-family:JB;color:var(--mute)\">23 NOV</span></div>\n</div></div>\n<div style=\"position:absolute;left:485px;top:170px;font-size:56px;color:var(--pink);font-weight:700\">→</div>\n<div class=win style=\"right:0;top:60px;width:380px;padding:24px;transform:rotate(3deg);z-index:3\">\n <div style=\"font-family:JB;font-size:16px;color:var(--mute)\">CALENDARIO</div>\n <div style=\"font-weight:700;font-size:26px;margin-top:10px\">4 partidos agregados ✓</div>\n <div style=\"margin-top:16px;display:flex;flex-direction:column;gap:10px\"><i style=\"display:block;height:12px;border-radius:6px;background:var(--pink)\"></i><i style=\"display:block;height:12px;width:80%;border-radius:6px;background:var(--vio)\"></i><i style=\"display:block;height:12px;width:90%;border-radius:6px;background:var(--pink)\"></i><i style=\"display:block;height:12px;width:70%;border-radius:6px;background:var(--vio)\"></i></div></div>\n<div class=sticker style=\"right:40px;top:300px;font-size:28px;transform:rotate(-5deg);z-index:4\">en 1 frase</div>",
+   "texto": "Siri ve lo que tienes en pantalla y <b>actúa sobre eso</b>: agenda fechas, responde dudas, resume.",
+   "caja_titulo": "PÍDELE ASÍ",
+   "caja_texto": "Con la página abierta: \"Agrega al calendario todos <span class=v>los partidos</span> que salen aquí\"."
+  },
+  {
+   "num": "04",
+   "etiqueta": "MEMORIA",
+   "titulo": "Se <em>acuerda</em> de lo que hablaron",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:600px;height:395px\">\n<div class=bar><i></i><i></i><i></i><span>Siri · hoy</span></div>\n<div style=\"padding:24px 28px\">\n <div style=\"font-family:JB;font-size:16px;color:var(--mute);text-align:center\">AYER: ME RECOMENDASTE 3 RESTAURANTES</div>\n <div style=\"margin-left:auto;margin-top:18px;width:max-content;max-width:480px;background:var(--lila);padding:14px 20px;border-radius:20px 20px 4px 20px;font-size:23px\">¿Cuál era el italiano que me dijiste ayer?</div>\n <div style=\"display:flex;gap:14px;margin-top:20px\">\n  <div style=\"width:46px;height:46px;border-radius:50%;background:linear-gradient(135deg,var(--pink),var(--vio));flex:none\"></div>\n  <div style=\"background:rgba(255,255,255,.08);padding:14px 20px;border-radius:4px 20px 20px 20px;font-size:23px;line-height:1.4\">Era Trattoria Lucca. ¿Te reservo para hoy?</div>\n </div>\n</div></div>\n<div class=win style=\"right:0;top:150px;width:300px;padding:22px;transform:rotate(3deg);z-index:3\">\n <div style=\"font-family:JB;font-size:16px;color:var(--mute)\">PRIVACIDAD</div>\n <div style=\"font-weight:700;font-size:24px;margin-top:8px;line-height:1.3\">Tú eliges qué apps no puede ver ✦</div></div>",
+   "texto": "Ya no empiezas de cero: <b>recuerda conversaciones anteriores</b> y puedes bloquearle apps.",
+   "caja_titulo": "PÍDELE ASÍ",
+   "caja_texto": "\"¿Cuál era el <span class=v>restaurante</span> que me recomendaste <span class=v>ayer</span>?\""
+  }
+ ],
+ "cierre": {
+  "mini": "siri",
+  "titulo": "¿Quieres la<br><em>guía completa?</em>",
+  "palabra": "SIRI",
+  "promesa": "y te mando los pasos + 10 pedidos para probarla por DM ✦",
+  "items": [
+   "Activarla en español",
+   "Buscar en tus cosas",
+   "Leer tu pantalla",
+   "Su memoria"
+  ]
+ }
+}
