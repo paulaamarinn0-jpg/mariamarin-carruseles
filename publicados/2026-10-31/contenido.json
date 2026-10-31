@@ -1,0 +1,61 @@
+{
+ "serie": "noticias IA",
+ "portada": {
+  "hashtag": "#GEMINIAI",
+  "sticker": "gratis ✦",
+  "titulo_px": 100,
+  "titulo": "Lo nuevo de Gemini que te ahorra <em style=\"font-style:italic;color:var(--pink)\">horas de oficina.</em>",
+  "subtitulo": "4 funciones recién llegadas, gratis, + el prompt exacto para probarlas",
+  "foto": "auto.png"
+ },
+ "slides": [
+  {
+   "num": "01",
+   "etiqueta": "PDF",
+   "titulo": "Tus apuntes, hechos <em>PDF</em>",
+   "grafico": "<div class=win style=\"left:0;top:20px;width:300px;height:370px;transform:rotate(-4deg);background:#fffbe8;color:var(--dk);padding:22px 24px;font-family:Fr\">\n<div style=\"font-size:26px;font-weight:700;border-bottom:2px solid #e8d98a;padding-bottom:8px\">Bio · clase 3</div>\n<div style=\"font-size:22px;line-height:1.7;margin-top:10px;font-style:italic\">· la célula tiene…<br>· mitocondria = energía<br>· ADN en el núcleo<br>· repasar p. 42 (!!)</div>\n<div style=\"font-family:JB;font-size:15px;color:#9a8a40;margin-top:14px\">foto_apuntes.jpg</div></div>\n<div style=\"position:absolute;left:318px;top:170px;font-size:56px;color:var(--pink);font-weight:900\">→</div>\n<div class=win style=\"left:400px;top:0;width:552px;height:410px\">\n<div class=bar><i></i><i></i><i></i><span>guia-de-estudio.pdf</span></div>\n<div style=\"padding:22px 28px\">\n <b style=\"font-family:Fr;font-size:34px\">Guía de estudio: la célula</b>\n <div style=\"margin-top:14px;font-size:20px;color:var(--mute)\">1. Resumen</div>\n <div style=\"height:10px;border-radius:6px;background:rgba(255,255,255,.12);margin-top:10px;width:92%\"></div>\n <div style=\"height:10px;border-radius:6px;background:rgba(255,255,255,.12);margin-top:8px;width:78%\"></div>\n <div style=\"margin-top:18px;font-size:20px;color:var(--mute)\">2. Preguntas de repaso</div>\n <div style=\"font-size:21px;margin-top:8px\">¿Qué hace la mitocondria?</div>\n <div style=\"display:flex;gap:12px;margin-top:22px\"><div style=\"background:var(--pink);color:#fff;font-weight:700;font-size:20px;padding:10px 18px;border-radius:12px\">✎ Editar</div><div style=\"background:rgba(255,255,255,.1);font-weight:700;font-size:20px;padding:10px 18px;border-radius:12px\">Descargar</div></div>\n</div></div>\n<div class=sticker style=\"left:20px;top:330px;font-size:26px;transform:rotate(-6deg);z-index:4\">de foto a PDF ✓</div>",
+   "texto": "Le mandas fotos de tus notas a mano y te arma <b>un PDF que editas ahí mismo</b>.",
+   "caja_titulo": "PÍDELE ASÍ",
+   "caja_texto": "Con estas fotos de mis apuntes hazme un PDF de <span class=v>guía de estudio</span> con preguntas."
+  },
+  {
+   "num": "02",
+   "etiqueta": "OFICINA",
+   "titulo": "Presentaciones sin <em>abrir Slides</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:610px;height:400px\">\n<div class=bar><i></i><i></i><i></i><span>Presentación · Plan de negocio</span></div>\n<div style=\"display:flex;gap:16px;padding:20px\">\n <div style=\"display:flex;flex-direction:column;gap:12px\">\n  <div style=\"width:110px;height:64px;border-radius:10px;border:3px solid var(--pink);background:linear-gradient(135deg,var(--pink),var(--vio))\"></div>\n  <div style=\"width:110px;height:64px;border-radius:10px;background:rgba(255,255,255,.1)\"></div>\n  <div style=\"width:110px;height:64px;border-radius:10px;background:rgba(255,255,255,.1)\"></div>\n  <div style=\"width:110px;height:64px;border-radius:10px;background:rgba(255,255,255,.1)\"></div></div>\n <div style=\"flex:1;height:300px;border-radius:16px;background:linear-gradient(135deg,var(--pink),var(--vio));color:#fff;padding:28px;box-sizing:border-box\">\n  <div style=\"font-family:JB;font-size:16px;opacity:.85\">SLIDE 1 DE 5</div>\n  <div style=\"font-family:Fr;font-weight:900;font-size:40px;line-height:1.05;margin-top:16px\">Mi tienda de café online</div>\n  <div style=\"font-size:20px;margin-top:16px;opacity:.9\">Idea · mercado · números</div></div>\n</div></div>\n<div class=win style=\"right:0;top:60px;width:320px;padding:18px 20px;transform:rotate(3deg);z-index:3\">\n <div style=\"font-family:JB;font-size:15px;color:var(--mute)\">HOJA DE CÁLCULO</div>\n <div style=\"display:grid;grid-template-columns:1.4fr 1fr;gap:6px;margin-top:10px;font-size:19px\">\n  <div style=\"background:rgba(255,255,255,.1);padding:6px 8px;border-radius:6px\">Ventas</div><div style=\"background:rgba(255,255,255,.1);padding:6px 8px;border-radius:6px\">$2.400</div>\n  <div style=\"background:rgba(255,255,255,.1);padding:6px 8px;border-radius:6px\">Gastos</div><div style=\"background:rgba(255,255,255,.1);padding:6px 8px;border-radius:6px\">$900</div>\n  <div style=\"background:var(--pinks);color:var(--pink);font-weight:700;padding:6px 8px;border-radius:6px\">Ganancia</div><div style=\"background:var(--pinks);color:var(--pink);font-weight:700;padding:6px 8px;border-radius:6px\">$1.500</div></div></div>\n<div class=note style=\"right:30px;top:290px;transform:rotate(-4deg);font-size:24px;z-index:4\">sin abrir otra app ✓</div>",
+   "texto": "Crea presentaciones, hojas de cálculo y documentos, y <b>los editas sin salir del chat</b>.",
+   "caja_titulo": "PÍDELE ASÍ",
+   "caja_texto": "Hazme una presentación de <span class=v>5 slides</span> sobre <span class=v>mi emprendimiento</span>. (Desde la web)"
+  },
+  {
+   "num": "03",
+   "etiqueta": "EDICIÓN",
+   "titulo": "Subraya y <em>corrige</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:640px;height:400px\">\n<div class=bar><i></i><i></i><i></i><span>correo-al-cliente.docx</span></div>\n<div style=\"padding:24px 28px;font-size:23px;line-height:1.55\">\n <div style=\"color:var(--mute)\">Hola Andrés,</div>\n <div style=\"margin-top:10px\"><span style=\"background:rgba(232,65,138,.35);border-bottom:3px solid var(--pink);padding:2px 0\">Por medio de la presente me permito informarle que el pedido se encuentra en proceso de despacho…</span></div>\n <div style=\"margin-top:12px;color:var(--mute)\">Quedo atenta a cualquier duda.</div>\n</div></div>\n<div class=win style=\"right:0;top:150px;width:360px;padding:20px 22px;transform:rotate(-3deg);z-index:3\">\n <div style=\"font-family:JB;font-size:15px;color:var(--mute)\">SOBRE LO SUBRAYADO</div>\n <div style=\"margin-top:10px;background:var(--pink);color:#fff;font-size:21px;padding:12px 16px;border-radius:16px 16px 4px 16px\">Más corto y cercano</div>\n <div style=\"margin-top:12px;font-size:21px;line-height:1.35\">✦ \"¡Tu pedido ya va en camino!\"</div></div>\n<div class=sticker style=\"right:40px;top:40px;font-size:26px;transform:rotate(5deg)\">solo esa parte ✓</div>",
+   "texto": "Seleccionas un pedazo del archivo y <b>Gemini cambia solo esa parte</b>. Lo demás queda igual.",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "Abre el archivo → subraya un párrafo → pídele: Hazlo <span class=v>más corto y cercano</span>."
+  },
+  {
+   "num": "04",
+   "etiqueta": "CUADERNOS",
+   "titulo": "Tus chats en <em>cuadernos</em>",
+   "grafico": "<div class=win style=\"left:0;top:20px;width:600px;height:380px\">\n<div class=bar><i></i><i></i><i></i><span>Gemini</span></div>\n<div style=\"padding:24px\">\n <div style=\"margin-left:auto;width:max-content;max-width:480px;background:var(--pink);color:#fff;padding:14px 20px;border-radius:20px 20px 4px 20px;font-size:22px;line-height:1.35\"><b>@Gemini Notebook</b> guarda este chat en mi cuaderno del viaje</div>\n <div style=\"display:flex;gap:14px;margin-top:22px\">\n  <div style=\"width:46px;height:46px;border-radius:50%;background:linear-gradient(135deg,var(--pink),var(--vio));flex:none;color:#fff;display:flex;align-items:center;justify-content:center;font-size:24px\">✦</div>\n  <div style=\"background:rgba(255,255,255,.08);padding:14px 18px;border-radius:4px 20px 20px 20px;font-size:22px;line-height:1.4\">Listo. Lo guardé en <b>\"Viaje a Cartagena\"</b>. Ya tiene 4 fuentes.</div></div>\n</div></div>\n<div class=win style=\"right:0;top:70px;width:330px;padding:20px 22px;transform:rotate(3deg);z-index:3\">\n <div style=\"font-family:JB;font-size:15px;color:var(--mute)\">CUADERNO</div>\n <div style=\"font-family:Fr;font-weight:900;font-size:28px;margin-top:6px\">Viaje a Cartagena</div>\n <div style=\"font-size:19px;line-height:1.8;margin-top:8px\">✓ vuelos.pdf<br>✓ hoteles (chat)<br>✓ restaurantes<br>✓ presupuesto</div></div>\n<div class=note style=\"right:50px;top:320px;transform:rotate(-5deg);font-size:23px;z-index:4\">todo en un lugar</div>",
+   "texto": "Escribe @Gemini Notebook y te guarda chats y fuentes <b>para preguntarles después</b>.",
+   "caja_titulo": "PÍDELE ASÍ",
+   "caja_texto": "@Gemini Notebook crea un cuaderno sobre <span class=v>mi viaje a Cartagena</span> y guarda este chat."
+  }
+ ],
+ "cierre": {
+  "mini": "gemini",
+  "titulo": "¿Quieres los<br><em>4 prompts?</em>",
+  "palabra": "GEMINI",
+  "promesa": "y te mando los prompts + dónde encontrar cada función por DM ✦",
+  "items": [
+   "PDF desde tus apuntes",
+   "Presentaciones y hojas",
+   "Subraya y corrige",
+   "Cuadernos con @"
+  ]
+ }
+}
