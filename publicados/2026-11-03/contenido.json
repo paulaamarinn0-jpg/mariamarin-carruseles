@@ -1,0 +1,60 @@
+{
+ "serie": "trucos de IA",
+ "portada": {
+  "hashtag": "#TRUCOSIA",
+  "sticker": "gratis ✦",
+  "titulo": "4 trucos de IA <em style=\"font-style:italic;color:var(--pink)\">gratis</em> que casi nadie conoce.",
+  "subtitulo": "El 3 te dice si una foto fue editada + cómo activar cada uno hoy",
+  "foto": "luz-roja.jpg"
+ },
+ "slides": [
+  {
+   "num": "01",
+   "etiqueta": "CHATGPT · 30 OCT",
+   "titulo": "Dos cuentas, <em>un celular</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:560px;height:395px\">\n<div class=bar><i></i><i></i><i></i><span>ChatGPT · Ajustes</span></div>\n<div style=\"padding:22px 26px\">\n <div style=\"font-family:JB;font-size:16px;color:var(--mute)\">CAMBIAR DE CUENTA</div>\n <div style=\"display:flex;align-items:center;gap:16px;margin-top:14px;background:rgba(255,255,255,.08);padding:14px 16px;border-radius:16px;border:2px solid var(--pink)\">\n  <div style=\"width:52px;height:52px;border-radius:50%;background:var(--pink);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:24px\">M</div>\n  <div style=\"flex:1\"><b style=\"font-size:24px\">Personal</b><div style=\"font-size:18px;color:var(--mute)\">maria@gmail.com</div></div><span style=\"color:var(--pink);font-size:28px\">✓</span></div>\n <div style=\"display:flex;align-items:center;gap:16px;margin-top:12px;background:rgba(255,255,255,.05);padding:14px 16px;border-radius:16px\">\n  <div style=\"width:52px;height:52px;border-radius:50%;background:var(--vio);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:24px\">T</div>\n  <div style=\"flex:1\"><b style=\"font-size:24px\">Trabajo</b><div style=\"font-size:18px;color:var(--mute)\">maria@empresa.com</div></div></div>\n <div style=\"margin-top:16px;font-size:22px;color:var(--pink);font-weight:700\">+ Agregar cuenta</div>\n</div></div>\n<div class=note style=\"right:10px;top:40px;width:310px;transform:rotate(4deg);z-index:3\">Cada cuenta con<br>sus chats y<br>su memoria ✓</div>\n<div class=sticker style=\"right:50px;top:300px;font-size:26px;transform:rotate(-5deg);z-index:4\">sin cerrar sesión</div>",
+   "texto": "Ahora en la app puedes tener tu cuenta personal y la del trabajo <b>y cambiar sin cerrar sesión</b>.",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "ChatGPT → Ajustes → <span class=v>Cambiar de cuenta</span> → Agregar cuenta (se está activando)."
+  },
+  {
+   "num": "02",
+   "etiqueta": "CHATGPT",
+   "titulo": "Su <em>modo incógnito</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:600px;height:395px\">\n<div class=bar><i></i><i></i><i></i><span>Chat temporal</span></div>\n<div style=\"padding:24px 26px\">\n <div style=\"display:flex;justify-content:space-between;align-items:center\"><b style=\"font-size:26px\">Modo incógnito</b><span style=\"font-family:JB;font-size:18px;background:var(--lila);color:var(--vio);padding:7px 14px;border-radius:999px\">◌ temporal</span></div>\n <div style=\"margin-left:auto;margin-top:22px;width:max-content;max-width:440px;background:var(--lila);padding:14px 20px;border-radius:20px 20px 4px 20px;font-size:22px;line-height:1.35\">Ideas de regalo para mi novio (que no se entere)</div>\n <div style=\"margin-top:22px;font-family:JB;font-size:18px;color:var(--mute);line-height:1.7\">✓ no sale en tu historial<br>✓ no usa ni guarda tu memoria<br>✓ no se usa para entrenar</div>\n</div></div>\n<div class=win style=\"right:0;top:120px;width:320px;padding:20px 22px;transform:rotate(3deg);z-index:3\">\n <div style=\"font-family:JB;font-size:16px;color:var(--mute)\">TU HISTORIAL</div>\n <div style=\"margin-top:12px;font-size:20px;line-height:1.9;color:var(--mute)\">Receta de arepas<br>Correo al jefe<br><span style=\"color:var(--pink)\">— nada más —</span></div></div>\n<div class=sticker style=\"right:40px;top:320px;font-size:26px;transform:rotate(-4deg);z-index:4\">más privado</div>",
+   "texto": "El chat temporal <b>no queda en tu historial</b> ni en su memoria. Ideal para temas privados.",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "Arriba, en el selector de modelo → <span class=v>Chat temporal</span>. Y escribes normal."
+  },
+  {
+   "num": "03",
+   "etiqueta": "ANDROID · CÍRCULO",
+   "titulo": "¿Esa foto es <em>real?</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:470px;height:400px;background:linear-gradient(160deg,#3a2350,#24143a)\">\n <div style=\"position:absolute;left:60px;top:50px;width:350px;height:230px;border-radius:18px;background:linear-gradient(135deg,#ff8cc6,#9b6bff);opacity:.55\"></div>\n <div style=\"position:absolute;left:150px;top:90px;font-family:Fr;font-weight:900;font-size:44px;color:#fff\">¿real?</div>\n <svg style=\"position:absolute;left:40px;top:30px\" width=\"390\" height=\"270\"><ellipse cx=\"195\" cy=\"135\" rx=\"180\" ry=\"120\" fill=\"none\" stroke=\"#fff\" stroke-width=\"6\" stroke-dasharray=\"2 0\"/></svg>\n <div style=\"position:absolute;left:20px;right:20px;bottom:18px;height:56px;border-radius:999px;background:#fff;color:var(--dk);display:flex;align-items:center;padding:0 22px;font-size:22px;font-weight:700\">Buscar con Google · Traducir</div>\n</div>\n<div class=win style=\"right:0;top:40px;width:430px;padding:22px 24px;z-index:3\">\n <div style=\"font-family:JB;font-size:16px;color:var(--mute)\">ACERCA DE ESTA IMAGEN</div>\n <div style=\"font-weight:700;font-size:26px;margin-top:10px;line-height:1.25\">Esta foto <span style=\"color:var(--pink)\">fue modificada</span></div>\n <div style=\"margin-top:12px;font-size:19px;color:var(--mute);line-height:1.4\">Detección automática de foto original o editada</div></div>\n<div class=note style=\"right:30px;top:250px;width:330px;transform:rotate(-3deg);z-index:4\">Mantén presionado<br>abajo y encierra ✓</div>",
+   "texto": "Encierras una foto en pantalla y Google <b>te avisa si es original o fue editada</b>. También traduce.",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "Mantén presionada la <span class=v>barra de abajo</span> → encierra la foto (Pixel 6+ y otros Android)."
+  },
+  {
+   "num": "04",
+   "etiqueta": "GEMINI · MÚSICA",
+   "titulo": "Canciones <em>a la medida</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:600px;height:395px\">\n<div class=bar><i></i><i></i><i></i><span>Gemini · Música</span></div>\n<div style=\"padding:20px 26px\">\n <div style=\"background:rgba(255,255,255,.08);padding:14px 18px;border-radius:14px;font-size:21px;line-height:1.35\">Canción de cumpleaños en salsa para Laura, que ama el café y bailar</div>\n <div style=\"display:flex;gap:10px;margin-top:16px\"><span style=\"font-family:JB;font-size:18px;background:var(--lila);color:var(--vio);padding:7px 14px;border-radius:999px\">♪ con voz</span><span style=\"font-family:JB;font-size:18px;background:var(--lila);color:var(--vio);padding:7px 14px;border-radius:999px\">plantilla cumpleaños</span></div>\n <div style=\"display:flex;align-items:center;gap:5px;height:80px;margin-top:16px\"><div style=\"flex:1;border-radius:4px;height:30%;background:var(--vio)\"></div><div style=\"flex:1;border-radius:4px;height:55%;background:var(--vio)\"></div><div style=\"flex:1;border-radius:4px;height:40%;background:var(--vio)\"></div><div style=\"flex:1;border-radius:4px;height:80%;background:var(--pink)\"></div><div style=\"flex:1;border-radius:4px;height:95%;background:var(--pink)\"></div><div style=\"flex:1;border-radius:4px;height:70%;background:var(--pink)\"></div><div style=\"flex:1;border-radius:4px;height:50%;background:var(--pink)\"></div><div style=\"flex:1;border-radius:4px;height:85%;background:var(--pink)\"></div><div style=\"flex:1;border-radius:4px;height:60%;background:var(--vio)\"></div><div style=\"flex:1;border-radius:4px;height:35%;background:var(--vio)\"></div><div style=\"flex:1;border-radius:4px;height:65%;background:var(--vio)\"></div><div style=\"flex:1;border-radius:4px;height:90%;background:var(--pink)\"></div><div style=\"flex:1;border-radius:4px;height:75%;background:var(--pink)\"></div><div style=\"flex:1;border-radius:4px;height:45%;background:var(--vio)\"></div><div style=\"flex:1;border-radius:4px;height:30%;background:var(--vio)\"></div><div style=\"flex:1;border-radius:4px;height:55%;background:var(--vio)\"></div><div style=\"flex:1;border-radius:4px;height:70%;background:var(--pink)\"></div><div style=\"flex:1;border-radius:4px;height:40%;background:var(--vio)\"></div></div>\n <div style=\"display:flex;justify-content:space-between;align-items:center;margin-top:14px\">\n  <div style=\"width:54px;height:54px;border-radius:50%;background:var(--pink);color:#fff;display:flex;align-items:center;justify-content:center;font-size:24px\">▶</div>\n  <span style=\"font-family:JB;font-size:18px;color:var(--mute)\">Lyria 3.5</span></div>\n</div></div>\n<div class=note style=\"right:0;top:60px;width:300px;transform:rotate(4deg);z-index:3\">Letra, voz y<br>música hechas<br>por la IA ✓</div>\n<div class=sticker style=\"right:40px;top:300px;font-size:26px;transform:rotate(-5deg);z-index:4\">regalo original</div>",
+   "texto": "Gemini compone la canción con letra y voz. <b>Hay plantilla de cumpleaños</b> y está para todos.",
+   "caja_titulo": "PÍDELE ASÍ",
+   "caja_texto": "Hazme una canción de cumpleaños en <span class=v>salsa</span> para <span class=v>Laura</span>, que ama el café."
+  }
+ ],
+ "cierre": {
+  "mini": "guía",
+  "titulo": "¿Quieres la<br><em>guía completa?</em>",
+  "palabra": "GRATIS",
+  "promesa": "y te mando los pasos + los prompts de los 4 trucos por DM ✦",
+  "items": [
+   "Dos cuentas en ChatGPT",
+   "Chat temporal",
+   "Foto real o editada",
+   "Canción con Gemini"
+  ]
+ }
+}
