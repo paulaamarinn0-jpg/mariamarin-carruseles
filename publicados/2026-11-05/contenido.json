@@ -1,0 +1,61 @@
+{
+ "serie": "noticias IA",
+ "portada": {
+  "hashtag": "#NOTICIASIA",
+  "sticker": "salió esta semana ✦",
+  "titulo_px": 92,
+  "titulo": "ChatGPT ya hace <em style=\"font-style:italic;color:var(--pink)\">GIFs animados</em> (y 3 trucos de IA que casi nadie usa).",
+  "subtitulo": "ChatGPT, Gemini, Google y Maps + cómo probar cada uno hoy",
+  "foto": "lentes.jpg"
+ },
+ "slides": [
+  {
+   "num": "01",
+   "etiqueta": "CHATGPT · 4 NOV",
+   "titulo": "ChatGPT ya hace <em>GIFs</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:610px;height:395px\">\n<div class=bar><i></i><i></i><i></i><span>ChatGPT</span></div>\n<div style=\"padding:22px 26px\">\n <div style=\"margin-left:auto;width:max-content;background:var(--lila);padding:12px 18px;border-radius:18px 18px 4px 18px;font-size:22px\">Hazme un GIF de un café que diga \"lunes\"</div>\n <div style=\"display:flex;gap:16px;margin-top:18px;align-items:flex-start\">\n  <div style=\"width:190px;height:190px;border-radius:18px;background:linear-gradient(135deg,#ffe0ee,#efe8ff);position:relative;flex:none;display:flex;align-items:center;justify-content:center\">\n   <div style=\"width:90px;height:76px;background:#fff;border:5px solid var(--dk);border-radius:0 0 26px 26px;margin-top:40px;position:relative\"><div style=\"position:absolute;right:-30px;top:12px;width:28px;height:34px;border:5px solid var(--dk);border-left:none;border-radius:0 18px 18px 0\"></div></div>\n   <div style=\"position:absolute;top:28px;left:70px;font-size:40px;color:var(--vio);font-weight:700\">~ ~</div>\n   <div style=\"position:absolute;bottom:10px;left:0;right:0;text-align:center;font-family:Fr;font-weight:900;font-style:italic;font-size:30px;color:var(--pink)\">lunes</div>\n   <div style=\"position:absolute;top:8px;left:8px;font-family:JB;font-size:15px;background:var(--dk);color:#fff;padding:3px 9px;border-radius:8px\">GIF</div>\n  </div>\n  <div style=\"flex:1\">\n   <div style=\"font-family:JB;font-size:16px;color:var(--mute)\">VELOCIDAD</div>\n   <div style=\"display:flex;gap:8px;margin-top:8px\"><span style=\"font-family:JB;font-size:18px;padding:6px 12px;border-radius:10px;background:rgba(255,255,255,.08)\">0.5x</span><span style=\"font-family:JB;font-size:18px;padding:6px 12px;border-radius:10px;background:var(--pink);color:#fff\">1x</span><span style=\"font-family:JB;font-size:18px;padding:6px 12px;border-radius:10px;background:rgba(255,255,255,.08)\">2x</span></div>\n   <div style=\"font-family:JB;font-size:16px;color:var(--mute);margin-top:18px\">CUADROS</div>\n   <div style=\"display:flex;gap:6px;margin-top:8px\"><div style=\"width:40px;height:40px;border-radius:8px;background:#ffe0ee\"></div><div style=\"width:40px;height:40px;border-radius:8px;background:#efe8ff;outline:3px solid var(--pink)\"></div><div style=\"width:40px;height:40px;border-radius:8px;background:#ffe0ee\"></div><div style=\"width:40px;height:40px;border-radius:8px;background:#efe8ff\"></div><div style=\"width:40px;height:40px;border-radius:8px;background:#ffe0ee\"></div></div>\n  </div>\n </div>\n</div></div>\n<div class=sticker style=\"right:20px;top:40px;font-size:30px;transform:rotate(5deg)\">nuevo ✦ 4 nov</div>\n<div class=win style=\"right:0;top:170px;width:310px;padding:20px 22px;transform:rotate(-3deg);z-index:3\">\n <div style=\"font-family:JB;font-size:16px;color:var(--mute)\">LISTO PARA</div>\n <div style=\"font-weight:700;font-size:26px;margin-top:8px;line-height:1.3\">WhatsApp, historias y presentaciones</div>\n <div style=\"margin-top:12px;background:var(--pink);color:#fff;font-weight:700;font-size:22px;padding:10px;border-radius:12px;text-align:center\">Compartir →</div></div>",
+   "texto": "Le escribes una idea o subes una foto y te arma el GIF. <b>Ajustas velocidad y cuadros.</b>",
+   "caja_titulo": "PÍDELE ASÍ",
+   "caja_texto": "Hazme un GIF en bucle de <span class=v>un café humeante</span> que diga <span class=v>\"lunes\"</span>."
+  },
+  {
+   "num": "02",
+   "etiqueta": "GEMINI LIVE",
+   "titulo": "Gemini <em>ve</em> lo que le muestras",
+   "grafico": "<div class=win style=\"left:150px;top:0;width:330px;height:418px;border-radius:40px;background:#2d1d45\">\n <div style=\"position:absolute;inset:14px;border-radius:30px;background:linear-gradient(160deg,#3a7a4a,#1d4a2c);overflow:hidden\">\n  <div style=\"position:absolute;left:95px;top:90px;width:110px;height:150px\">\n   <div style=\"position:absolute;left:20px;top:0;width:70px;height:110px;border-radius:50% 50% 10% 50%;background:#7bd389;transform:rotate(-20deg)\"></div>\n   <div style=\"position:absolute;left:45px;top:20px;width:70px;height:100px;border-radius:50% 50% 50% 10%;background:#5cbf6e;transform:rotate(25deg)\"></div>\n   <div style=\"position:absolute;left:25px;top:110px;width:70px;height:55px;background:#c97b4a;border-radius:6px 6px 16px 16px\"></div></div>\n  <div style=\"position:absolute;left:60px;top:60px;width:180px;height:200px;border:4px solid #fff;border-radius:22px;opacity:.85\"></div>\n  <div style=\"position:absolute;left:0;right:0;bottom:24px;display:flex;justify-content:center;gap:16px\">\n   <div style=\"width:56px;height:56px;border-radius:50%;background:#fff;color:var(--dk);display:flex;align-items:center;justify-content:center;font-size:24px\">◉</div>\n   <div style=\"width:56px;height:56px;border-radius:50%;background:#ff4f6d;color:#fff;display:flex;align-items:center;justify-content:center;font-size:26px\">✕</div></div>\n  <div style=\"position:absolute;left:16px;top:16px;font-family:JB;font-size:16px;background:rgba(0,0,0,.45);color:#fff;padding:4px 12px;border-radius:999px\">● Live</div>\n </div></div>\n<div class=win style=\"left:520px;top:40px;width:420px;padding:22px 24px;z-index:3\">\n <div style=\"font-family:JB;font-size:16px;color:var(--mute)\">TÚ (EN VOZ ALTA)</div>\n <div style=\"font-size:24px;margin-top:6px\">\"¿Qué planta es y cada cuánto la riego?\"</div></div>\n<div class=win style=\"left:540px;top:180px;width:410px;padding:22px 24px;z-index:3;transform:rotate(-2deg)\">\n <div style=\"display:flex;gap:12px;align-items:flex-start\"><div style=\"width:40px;height:40px;border-radius:50%;background:linear-gradient(135deg,var(--pink),var(--vio));flex:none;color:#fff;display:flex;align-items:center;justify-content:center;font-size:20px\">✦</div>\n <div style=\"font-size:23px;line-height:1.35\">Es una calathea. Riégala cuando la tierra esté seca arriba, más o menos cada 5 días.</div></div></div>\n<div class=note style=\"left:0;top:300px;transform:rotate(-5deg);font-size:24px;z-index:4\">gratis ✓</div>",
+   "texto": "Abres la cámara, apuntas y le preguntas en voz alta. <b>Gratis en Android y iPhone.</b>",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "App Gemini → botón <span class=v>Live</span> → ícono de cámara → \"¿qué planta es esta?\""
+  },
+  {
+   "num": "03",
+   "etiqueta": "GOOGLE · MODO IA",
+   "titulo": "Google en <em>modo IA</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:700px;height:395px\">\n<div class=bar><i></i><i></i><i></i><span>google.com</span></div>\n<div style=\"padding:22px 26px\">\n <div style=\"display:flex;gap:10px;font-family:JB;font-size:18px\"><span style=\"padding:7px 14px;border-radius:999px;background:var(--pink);color:#fff\">✦ Modo IA</span><span style=\"padding:7px 14px;border-radius:999px;background:rgba(255,255,255,.08);color:var(--mute)\">Todo</span><span style=\"padding:7px 14px;border-radius:999px;background:rgba(255,255,255,.08);color:var(--mute)\">Imágenes</span></div>\n <div style=\"margin-top:16px;border:2px solid var(--line);border-radius:999px;padding:12px 20px;font-size:21px\">plan de 3 días en Cartagena con poco presupuesto…</div>\n <div style=\"margin-top:16px;font-size:21px;line-height:1.5;color:var(--mute)\"><b style=\"color:var(--ink)\">Día 1:</b> Ciudad amurallada a pie (gratis) y atardecer en el Café del Mar…<br><b style=\"color:var(--ink)\">Día 2:</b> Playa en Bocagrande y almuerzo típico por menos de…</div>\n <div style=\"display:flex;gap:10px;margin-top:16px\">\n  <div style=\"flex:1;border:2px solid var(--line);border-radius:14px;padding:10px 14px;font-size:17px;color:var(--mute)\">↗ Fuente 1</div>\n  <div style=\"flex:1;border:2px solid var(--line);border-radius:14px;padding:10px 14px;font-size:17px;color:var(--mute)\">↗ Fuente 2</div>\n  <div style=\"flex:1;border:2px solid var(--line);border-radius:14px;padding:10px 14px;font-size:17px;color:var(--mute)\">↗ Fuente 3</div></div>\n</div></div>\n<div class=note style=\"right:0;top:60px;width:240px;transform:rotate(4deg);z-index:4\">Pregunta larga = mejor respuesta</div>\n<div class=sticker style=\"right:30px;top:280px;font-size:28px;transform:rotate(-5deg)\">en español ✓</div>",
+   "texto": "Le preguntas largo, como a una persona, y te responde <b>con los links para verificar.</b>",
+   "caja_titulo": "PÍDELE ASÍ",
+   "caja_texto": "En Modo IA: plan de 3 días en <span class=v>Cartagena</span> con poco presupuesto y dónde comer."
+  },
+  {
+   "num": "04",
+   "etiqueta": "GOOGLE MAPS",
+   "titulo": "Pregúntale <em>a Maps</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:600px;height:395px;background:#e9f1ff\">\n <div style=\"position:absolute;inset:0;background:repeating-linear-gradient(35deg,transparent 0 70px,rgba(255,255,255,.9) 70px 84px),repeating-linear-gradient(-55deg,transparent 0 110px,rgba(255,255,255,.9) 110px 126px)\"></div>\n <div style=\"position:absolute;left:24px;right:24px;top:20px;background:#fff;border-radius:999px;padding:12px 22px;font-size:20px;color:#6b5a85;box-shadow:0 6px 16px rgba(0,0,0,.12)\">Buscar aquí</div>\n <div style=\"position:absolute;left:24px;top:84px;background:var(--pink);color:#fff;font-weight:700;font-size:20px;padding:9px 18px;border-radius:999px\">✦ Ask Maps</div>\n <div style=\"position:absolute;left:230px;top:200px;width:44px;height:44px;border-radius:50% 50% 50% 0;transform:rotate(-45deg);background:var(--pink);border:4px solid #fff\"></div>\n <div style=\"position:absolute;left:390px;top:150px;width:44px;height:44px;border-radius:50% 50% 50% 0;transform:rotate(-45deg);background:var(--vio);border:4px solid #fff\"></div>\n <div style=\"position:absolute;left:120px;top:300px;width:44px;height:44px;border-radius:50% 50% 50% 0;transform:rotate(-45deg);background:var(--vio);border:4px solid #fff\"></div>\n</div>\n<div class=win style=\"right:0;top:40px;width:380px;padding:22px 24px;z-index:3\">\n <div style=\"font-family:JB;font-size:16px;color:var(--mute)\">TÚ</div>\n <div style=\"font-size:23px;margin-top:6px\">\"Quiet café with wifi open now?\"</div></div>\n<div class=win style=\"right:10px;top:180px;width:380px;padding:22px 24px;z-index:3;transform:rotate(2deg)\">\n <div style=\"display:flex;gap:12px;align-items:flex-start\"><div style=\"width:40px;height:40px;border-radius:50%;background:linear-gradient(135deg,var(--pink),var(--vio));flex:none;color:#fff;display:flex;align-items:center;justify-content:center;font-size:20px\">✦</div>\n <div style=\"font-size:22px;line-height:1.35\">3 cafés tranquilos a 10 min, con wifi y abiertos hasta las 8 p.m.</div></div></div>\n<div class=sticker style=\"left:20px;top:330px;font-size:26px;transform:rotate(-4deg);z-index:4\">+150 países</div>",
+   "texto": "Le hablas como a un amigo y te recomienda lugares. <b>En +150 países, por ahora en inglés.</b>",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "Maps → <span class=v>Ask Maps</span> (bajo la barra) → \"quiet café with wifi open now?\""
+  }
+ ],
+ "cierre": {
+  "mini": "prompts",
+  "titulo": "¿Quieres los<br><em>4 prompts?</em>",
+  "palabra": "GIF",
+  "promesa": "y te mando los prompts + pasos de los 4 por DM ✦",
+  "items": [
+   "GIFs en ChatGPT",
+   "Gemini con cámara",
+   "Modo IA de Google",
+   "Ask Maps"
+  ]
+ }
+}
