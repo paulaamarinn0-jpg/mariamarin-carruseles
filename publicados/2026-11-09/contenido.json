@@ -1,0 +1,61 @@
+{
+ "serie": "trucos de IA",
+ "portada": {
+  "hashtag": "#GRATIS",
+  "sticker": "con tu Gmail ✦",
+  "titulo_px": 96,
+  "titulo": "Google te regala <em style=\"font-style:italic;color:var(--pink)\">videos con IA</em> cada mes (y casi nadie lo sabe).",
+  "subtitulo": "+ 2 funciones nuevas de YouTube que te salvan el canal",
+  "foto": "cocina.jpg"
+ },
+ "slides": [
+  {
+   "num": "01",
+   "etiqueta": "GOOGLE VIDS · 5 NOV",
+   "titulo": "3 videos IA <em>gratis</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:640px;height:395px\">\n<div class=bar><i></i><i></i><i></i><span>vids.new</span></div>\n<div style=\"padding:22px 26px\">\n <div style=\"font-family:JB;font-size:16px;color:var(--mute)\">DESCRIBE TU ESCENA</div>\n <div style=\"margin-top:10px;background:rgba(255,255,255,.08);border:2px solid var(--line);border-radius:14px;padding:14px 18px;font-size:22px;line-height:1.4\">Una taza de café humeante en una cocina con luz de mañana, cámara lenta</div>\n <div style=\"display:flex;gap:14px;margin-top:20px;align-items:center\">\n  <div style=\"width:220px;height:130px;border-radius:14px;background:linear-gradient(150deg,#ffd9b0,#ff9fc4 60%,#b9a2ff);position:relative\"><div style=\"position:absolute;left:8px;bottom:8px;font-family:JB;font-size:14px;background:var(--dk);color:#fff;padding:3px 8px;border-radius:7px\">0:15</div><div style=\"position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:46px;height:46px;border-radius:50%;background:rgba(255,255,255,.85);color:var(--dk);display:flex;align-items:center;justify-content:center;font-size:20px\">▶</div></div>\n  <div style=\"flex:1;background:var(--pink);color:#fff;font-weight:700;font-size:22px;padding:14px;border-radius:12px;text-align:center\">✦ Generar video</div>\n </div>\n</div></div>\n<div class=sticker style=\"right:20px;top:40px;font-size:30px;transform:rotate(5deg)\">15 segundos</div>\n<div class=note style=\"right:10px;top:190px;width:270px;transform:rotate(-4deg);z-index:4\">3 al mes<br>sin pagar nada</div>",
+   "texto": "Con cualquier cuenta de Google creas <b>hasta 3 videos de 15 segundos al mes, gratis.</b>",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "Entra a <span class=v>vids.new</span> → elige generar video con IA → describe la escena que quieres."
+  },
+  {
+   "num": "02",
+   "etiqueta": "GEMINI OMNI 1.2 FLASH",
+   "titulo": "Lo editas <em>hablándole</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:620px;height:395px\">\n<div class=bar><i></i><i></i><i></i><span>Google Vids · editar</span></div>\n<div style=\"padding:22px 26px\">\n <div style=\"margin-left:auto;width:max-content;max-width:470px;background:var(--lila);padding:12px 18px;border-radius:18px 18px 4px 18px;font-size:22px\">Cámbiale el fondo a una playa al atardecer</div>\n <div style=\"display:flex;gap:14px;margin-top:18px\">\n  <div style=\"width:42px;height:42px;border-radius:50%;background:linear-gradient(135deg,var(--pink),var(--vio));flex:none;color:#fff;display:flex;align-items:center;justify-content:center;font-size:22px\">✦</div>\n  <div style=\"background:rgba(255,255,255,.08);padding:14px 18px;border-radius:4px 18px 18px 18px;font-size:21px;line-height:1.4\">Listo. Tu producto quedó igual, solo cambié el fondo.</div>\n </div>\n <div style=\"margin-left:auto;margin-top:18px;width:max-content;background:var(--lila);padding:12px 18px;border-radius:18px 18px 4px 18px;font-size:22px\">Ahora ponlo vertical para reels</div>\n</div></div>\n<div class=win style=\"right:0;top:50px;width:300px;padding:20px 22px;transform:rotate(3deg);z-index:3\">\n <div style=\"font-family:JB;font-size:16px;color:var(--mute)\">FOTO DE REFERENCIA</div>\n <div style=\"margin-top:10px;height:120px;border-radius:12px;background:linear-gradient(160deg,#ffd1e6,#d9ccff);display:flex;align-items:center;justify-content:center;font-weight:700;font-size:20px;color:var(--dk)\">tu producto ✓</div></div>\n<div class=sticker style=\"right:30px;top:300px;font-size:26px;transform:rotate(-4deg);z-index:4\">9:16 en un clic</div>",
+   "texto": "Sube una foto de tu producto y luego pídele cambios <b>como si le escribieras a alguien.</b>",
+   "caja_titulo": "PÍDELE ASÍ",
+   "caja_texto": "\"Usa mi foto, cambia el fondo a <span class=v>una playa al atardecer</span> y ponlo vertical\""
+  },
+  {
+   "num": "03",
+   "etiqueta": "YOUTUBE STUDIO · 3 NOV",
+   "titulo": "Adiós <em>copyright</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:640px;height:395px\">\n<div class=bar><i></i><i></i><i></i><span>YouTube Studio · Reemplazar canción</span></div>\n<div style=\"padding:20px 24px\">\n <div style=\"display:flex;gap:10px\"><span style=\"font-family:JB;font-size:17px;padding:6px 12px;border-radius:10px;background:rgba(255,255,255,.08)\">Biblioteca</span><span style=\"font-family:JB;font-size:17px;padding:6px 12px;border-radius:10px;background:var(--pink);color:#fff\">Sugerencias → Crear ✦</span></div>\n <div style=\"margin-top:16px;display:flex;flex-direction:column;gap:10px\">\n  <div style=\"display:flex;align-items:center;gap:12px;background:rgba(255,255,255,.06);border-radius:12px;padding:10px 14px\"><div style=\"width:34px;height:34px;border-radius:50%;background:var(--pink);color:#fff;display:flex;align-items:center;justify-content:center;font-size:15px\">▶</div><span style=\"font-size:20px\">Pista IA 1</span><span style=\"margin-left:auto;font-family:JB;font-size:16px;color:var(--mute)\">3:00</span></div>\n  <div style=\"display:flex;align-items:center;gap:12px;background:rgba(255,255,255,.06);border-radius:12px;padding:10px 14px\"><div style=\"width:34px;height:34px;border-radius:50%;background:var(--vio);color:#fff;display:flex;align-items:center;justify-content:center;font-size:15px\">▶</div><span style=\"font-size:20px\">Pista IA 2</span><span style=\"margin-left:auto;font-family:JB;font-size:16px;color:var(--mute)\">3:00</span></div>\n  <div style=\"display:flex;align-items:center;gap:12px;background:rgba(255,255,255,.06);border-radius:12px;padding:10px 14px\"><div style=\"width:34px;height:34px;border-radius:50%;background:var(--vio);color:#fff;display:flex;align-items:center;justify-content:center;font-size:15px\">▶</div><span style=\"font-size:20px\">Pista IA 3</span><span style=\"margin-left:auto;font-family:JB;font-size:16px;color:var(--mute)\">3:00</span></div>\n  <div style=\"display:flex;align-items:center;gap:12px;background:rgba(255,255,255,.06);border-radius:12px;padding:10px 14px\"><div style=\"width:34px;height:34px;border-radius:50%;background:var(--vio);color:#fff;display:flex;align-items:center;justify-content:center;font-size:15px\">▶</div><span style=\"font-size:20px\">Pista IA 4</span><span style=\"margin-left:auto;font-family:JB;font-size:16px;color:var(--mute)\">3:00</span></div>\n </div>\n</div></div>\n<div class=win style=\"right:0;top:60px;width:300px;padding:20px 22px;transform:rotate(-3deg);z-index:3\">\n <div style=\"font-family:JB;font-size:16px;color:var(--mute)\">RECLAMO DE AUDIO</div>\n <div style=\"font-family:Fr;font-weight:900;font-size:36px;color:var(--pink);white-space:nowrap;margin-top:6px\">Eliminado ✓</div>\n <div style=\"font-size:19px;color:var(--mute);margin-top:6px\">sin volver a subir el video</div></div>\n<div class=sticker style=\"right:30px;top:310px;font-size:26px;transform:rotate(4deg);z-index:4\">ya fuera de EE.UU.</div>",
+   "texto": "¿Te reclamaron una canción? La IA te crea <b>4 pistas instrumentales para reemplazarla.</b>",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "Studio en el computador → video con reclamo → <span class=v>Reemplazar canción</span> → Sugerencias → Crear."
+  },
+  {
+   "num": "04",
+   "etiqueta": "ASK STUDIO",
+   "titulo": "Pregúntale <em>a tu canal</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:620px;height:395px\">\n<div class=bar><i></i><i></i><i></i><span>YouTube Studio · Ask Studio ✦</span></div>\n<div style=\"padding:22px 26px\">\n <div style=\"margin-left:auto;width:max-content;max-width:470px;background:var(--lila);padding:12px 18px;border-radius:18px 18px 4px 18px;font-size:22px\">¿Por qué no me están pagando este mes?</div>\n <div style=\"display:flex;gap:14px;margin-top:18px\">\n  <div style=\"width:42px;height:42px;border-radius:50%;background:linear-gradient(135deg,var(--pink),var(--vio));flex:none;color:#fff;display:flex;align-items:center;justify-content:center;font-size:22px\">✦</div>\n  <div style=\"background:rgba(255,255,255,.08);padding:14px 18px;border-radius:4px 18px 18px 18px;font-size:21px;line-height:1.4\">Revisé tu canal: te falta un paso en AdSense. ¿Te conecto con una persona de soporte?</div>\n </div>\n <div style=\"display:flex;gap:10px;margin-top:18px\"><span style=\"font-family:JB;font-size:16px;background:var(--pinks);color:var(--pink);padding:6px 12px;border-radius:999px\">monetización</span><span style=\"font-family:JB;font-size:16px;background:var(--pinks);color:var(--pink);padding:6px 12px;border-radius:999px\">políticas</span><span style=\"font-family:JB;font-size:16px;background:var(--pinks);color:var(--pink);padding:6px 12px;border-radius:999px\">miniaturas</span></div>\n</div></div>\n<div class=win style=\"right:0;top:60px;width:300px;padding:20px 22px;transform:rotate(3deg);z-index:3\">\n <div style=\"font-family:JB;font-size:16px;color:var(--mute)\">SI TU CANAL CALIFICA</div>\n <div style=\"font-size:22px;margin-top:8px;line-height:1.4\">→ hablas con<br>una persona real<br>de YouTube</div></div>\n<div class=sticker style=\"right:30px;top:300px;font-size:26px;transform:rotate(-4deg);z-index:4\">nuevo ✦</div>",
+   "texto": "La IA de YouTube Studio ya responde dudas de pagos y políticas, y <b>si calificas, te pasa con un humano.</b>",
+   "caja_titulo": "DÓNDE ENCONTRARLO",
+   "caja_texto": "YouTube Studio en la web → ícono <span class=v>✦ Ask Studio</span> arriba → escribe tu duda."
+  }
+ ],
+ "cierre": {
+  "mini": "links",
+  "titulo": "¿Quieres los<br><em>4 pasos?</em>",
+  "palabra": "VIDEO",
+  "promesa": "y te mando los links + pasos de los 4 por DM ✦",
+  "items": [
+   "Videos IA gratis",
+   "Editar hablándole",
+   "Música sin copyright",
+   "Ask Studio"
+  ]
+ }
+}
