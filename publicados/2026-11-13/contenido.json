@@ -1,0 +1,60 @@
+{
+ "serie": "noticias IA",
+ "portada": {
+  "hashtag": "#NOTICIASIA",
+  "sticker": "esta semana ✦",
+  "foto": "lentes.jpg",
+  "titulo": "Dibujas una app en un papel y <em style=\"font-style:italic;color:var(--pink)\">Gemini te la programa.</em>",
+  "subtitulo": "+ 3 noticias de IA de esta semana que casi nadie vio"
+ },
+ "slides": [
+  {
+   "num": "01",
+   "etiqueta": "GEMINI CANVAS",
+   "titulo": "Del <em>papel</em> a una app",
+   "grafico": "<div class=win style=\"left:0;top:30px;width:400px;height:360px;background:#fdfaf2;transform:rotate(-3deg)\">\n<div style=\"padding:26px;font-family:Fr;font-style:italic;font-weight:700;color:#3a2a55\">\n<div style=\"font-size:30px;border-bottom:3px dashed #9b8bb5;padding-bottom:8px\">Mis hábitos</div>\n<div style=\"margin-top:18px;font-size:26px;line-height:2\">□ tomar agua<br>□ leer 10 min<br>□ caminar</div>\n<div style=\"margin-top:10px;width:140px;height:44px;border:3px solid #3a2a55;border-radius:12px;text-align:center;line-height:40px;font-size:22px\">+ nuevo</div>\n</div></div>\n<div style=\"position:absolute;left:420px;top:170px;font-size:60px;color:var(--pink);font-weight:700\">→</div>\n<div class=win style=\"right:0;top:10px;width:440px;height:400px\">\n<div class=bar><i></i><i></i><i></i><span>Canvas · vista previa</span></div>\n<div style=\"padding:22px 26px\">\n<b style=\"font-family:Fr;font-size:32px\">Mis hábitos</b>\n<div style=\"margin-top:16px;display:flex;flex-direction:column;gap:12px;font-size:22px\">\n<div style=\"display:flex;gap:12px;align-items:center;background:var(--pinks);padding:10px 14px;border-radius:12px\"><span style=\"width:26px;height:26px;border-radius:8px;background:var(--pink);color:#fff;text-align:center;line-height:26px\">✓</span>Tomar agua</div>\n<div style=\"display:flex;gap:12px;align-items:center;background:rgba(255,255,255,.06);padding:10px 14px;border-radius:12px\"><span style=\"width:26px;height:26px;border-radius:8px;border:2px solid var(--mute)\"></span>Leer 10 min</div>\n<div style=\"display:flex;gap:12px;align-items:center;background:rgba(255,255,255,.06);padding:10px 14px;border-radius:12px\"><span style=\"width:26px;height:26px;border-radius:8px;border:2px solid var(--mute)\"></span>Caminar</div>\n</div>\n<div style=\"margin-top:16px;background:var(--vio);color:#fff;font-weight:700;font-size:22px;padding:10px;border-radius:12px;text-align:center\">+ Nuevo hábito</div>\n</div></div>\n<div class=sticker style=\"left:200px;top:372px;font-size:26px;transform:rotate(-4deg);z-index:4\">0 código ✓</div>",
+   "texto": "Le tomas foto a tu boceto y Gemini <b>lo vuelve una app que funciona</b>, con vista previa.",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "Sube la foto → elige <span class=v>Canvas</span> → \"¿Puedes programar esta app?\" → pídele cambios."
+  },
+  {
+   "num": "02",
+   "etiqueta": "NUEVO MODELO",
+   "titulo": "Llegó <em>Gemini 4 Hydrogen</em>",
+   "grafico": "<div class=win style=\"left:0;top:20px;width:600px;height:380px\">\n<div class=bar><i></i><i></i><i></i><span>Gemini · elegir modelo</span></div>\n<div style=\"padding:24px;display:flex;flex-direction:column;gap:14px\">\n<div style=\"display:flex;justify-content:space-between;align-items:center;padding:16px 20px;border-radius:16px;background:linear-gradient(90deg,var(--pinks),var(--lila));border:2px solid var(--pink)\"><div><b style=\"font-size:26px\">4 Hydrogen</b><div style=\"font-size:18px;color:var(--mute)\">rápido · código y tareas</div></div><span style=\"font-family:JB;font-size:16px;background:var(--pink);color:#fff;padding:6px 12px;border-radius:999px\">NUEVO</span></div>\n<div style=\"padding:16px 20px;border-radius:16px;background:rgba(255,255,255,.06)\"><b style=\"font-size:26px\">4 Carbon</b><div style=\"font-size:18px;color:var(--mute)\">el más potente</div></div>\n<div style=\"padding:16px 20px;border-radius:16px;background:rgba(255,255,255,.06)\"><b style=\"font-size:26px\">4 Argon</b><div style=\"font-size:18px;color:var(--mute)\">octubre</div></div>\n</div></div>\n<div class=note style=\"right:0;top:40px;width:310px;transform:rotate(4deg);z-index:3\">Anunciado el<br>12 de noviembre</div>\n<div class=sticker style=\"right:30px;top:280px;font-size:30px;transform:rotate(-5deg);z-index:4\">⚡ 1M de contexto</div>",
+   "texto": "El modelo nuevo y rápido de Google <b>para código y tareas largas</b>. Lo anunció ayer.",
+   "caja_titulo": "DÓNDE ENCONTRARLO",
+   "caja_texto": "Se está activando por partes en la <span class=v>app de Gemini</span>, Google Search y AI Studio."
+  },
+  {
+   "num": "03",
+   "etiqueta": "CHATGPT VOZ",
+   "titulo": "Chao a las <em>voces viejas</em>",
+   "grafico": "<div class=win style=\"left:0;top:20px;width:560px;height:370px\">\n<div class=bar><i></i><i></i><i></i><span>Ajustes › Voz</span></div>\n<div style=\"padding:24px;display:flex;flex-direction:column;gap:14px;font-size:24px\">\n<div style=\"padding:16px 20px;border-radius:16px;background:rgba(255,255,255,.05);color:var(--mute);text-decoration:line-through\">Voz estándar</div>\n<div style=\"padding:16px 20px;border-radius:16px;background:rgba(255,255,255,.05);color:var(--mute);text-decoration:line-through\">Voz avanzada</div>\n<div style=\"padding:16px 20px;border-radius:16px;background:linear-gradient(90deg,var(--pinks),var(--lila));border:2px solid var(--pink);display:flex;justify-content:space-between\"><b>GPT-Live</b><span style=\"color:var(--pink)\">✓</span></div>\n</div></div>\n<div class=win style=\"right:0;top:110px;width:340px;padding:22px;transform:rotate(3deg);z-index:3;text-align:center\">\n<div style=\"font-family:JB;font-size:16px;color:var(--mute)\">SE APAGAN EL</div>\n<div style=\"font-family:Fr;font-weight:900;font-size:64px;color:var(--pink);line-height:1.1\">11 dic</div>\n<div style=\"font-size:20px;color:var(--mute)\">el cambio es automático</div></div>",
+   "texto": "ChatGPT retira la voz estándar y la avanzada. <b>Te pasa solo a GPT-Live</b>, que escucha mientras habla.",
+   "caja_titulo": "EL DATO",
+   "caja_texto": "Desde el <span class=v>11 de diciembre</span>. Video y compartir pantalla, por ahora, siguen con la voz anterior."
+  },
+  {
+   "num": "04",
+   "etiqueta": "PIXEL DROP",
+   "titulo": "Widgets <em>a tu medida</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:380px;height:400px;border-radius:44px;padding:30px 24px\">\n<div style=\"font-family:JB;font-size:16px;color:var(--mute)\">DESCRIBE TU WIDGET</div>\n<div style=\"margin-top:12px;background:rgba(255,255,255,.08);padding:14px 16px;border-radius:16px;font-size:20px;line-height:1.35\">Muéstrame cuánto gasto en compras al mes</div>\n<div style=\"margin-top:16px;background:var(--pink);color:#fff;font-weight:700;font-size:20px;padding:12px;border-radius:14px;text-align:center\">Crear widget ✦</div>\n</div>\n<div style=\"position:absolute;left:400px;top:170px;font-size:60px;color:var(--pink);font-weight:700\">→</div>\n<div class=win style=\"right:0;top:60px;width:460px;height:300px;padding:24px 28px\">\n<div style=\"font-family:JB;font-size:16px;color:var(--mute)\">COMPRAS · NOVIEMBRE</div>\n<div style=\"font-family:Fr;font-weight:900;font-size:56px;margin-top:6px\">$412</div>\n<div style=\"display:flex;align-items:flex-end;gap:14px;height:110px;margin-top:14px\">\n<div style=\"flex:1;height:50%;background:var(--lila);border-radius:8px\"></div><div style=\"flex:1;height:75%;background:var(--lila);border-radius:8px\"></div><div style=\"flex:1;height:60%;background:var(--lila);border-radius:8px\"></div><div style=\"flex:1;height:100%;background:var(--pink);border-radius:8px\"></div></div></div>\n<div class=note style=\"right:20px;top:330px;transform:rotate(-3deg);font-size:22px;z-index:4\">Pixel 10 y 11</div>",
+   "texto": "En los Pixel nuevos le describes un widget y Gemini <b>lo arma con tus datos</b> de Gmail y Calendar.",
+   "caja_titulo": "PÍDELE ASÍ",
+   "caja_texto": "Muéstrame <span class=v>cuánto gasto en compras</span> al mes. (Pixel 10 y 11, en países seleccionados)"
+  }
+ ],
+ "cierre": {
+  "mini": "pasos",
+  "titulo": "¿Quieres los<br><em>pasos exactos?</em>",
+  "palabra": "DIBUJO",
+  "promesa": "y te mando el prompt + los links directo a tu DM ✦",
+  "items": [
+   "Tu dibujo hecho app",
+   "Gemini 4 Hydrogen",
+   "GPT-Live en ChatGPT",
+   "Widgets con IA"
+  ]
+ }
+}
