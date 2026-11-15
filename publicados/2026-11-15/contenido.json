@@ -1,0 +1,60 @@
+{
+ "serie": "noticias IA",
+ "portada": {
+  "hashtag": "#NOTICIASIA",
+  "sticker": "esta semana ✦",
+  "foto": "auto.png",
+  "titulo": "Esta IA gratis <em style=\"font-style:italic;color:var(--pink)\">cancela tus suscripciones</em> por ti.",
+  "subtitulo": "+ 3 lanzamientos de IA de esta semana que casi nadie vio"
+ },
+ "slides": [
+  {
+   "num": "01",
+   "etiqueta": "NOD · N8N",
+   "titulo": "Tu <em>asistente</em> que hace vueltas",
+   "grafico": "<div class=win style=\"left:0;top:40px;width:560px;height:320px\">\n<div class=bar><i></i><i></i><i></i><span>Nod · tarea nueva</span></div>\n<div style=\"padding:22px 26px\">\n<div style=\"margin-left:auto;width:max-content;max-width:440px;background:var(--lila);padding:14px 20px;border-radius:20px 20px 4px 20px;font-size:22px;line-height:1.35\">Cancela mi suscripción de streaming y pide el reembolso</div>\n<div style=\"margin-top:18px;display:flex;flex-direction:column;gap:10px;font-size:21px\">\n<div style=\"display:flex;gap:12px;align-items:center\"><span style=\"width:28px;height:28px;border-radius:8px;background:var(--pink);color:#fff;text-align:center;line-height:28px\">✓</span>Abrí la página de la cuenta</div>\n<div style=\"display:flex;gap:12px;align-items:center\"><span style=\"width:28px;height:28px;border-radius:8px;background:var(--pink);color:#fff;text-align:center;line-height:28px\">✓</span>Encontré \"Cancelar plan\"</div>\n<div style=\"display:flex;gap:12px;align-items:center;color:var(--mute)\"><span style=\"width:28px;height:28px;border-radius:8px;border:2px solid var(--mute)\"></span>Escribí la solicitud de reembolso</div>\n</div></div></div>\n<div class=win style=\"right:0;top:120px;width:360px;padding:22px;transform:rotate(3deg);z-index:3\">\n<div style=\"font-family:JB;font-size:16px;color:var(--mute)\">ANTES DE ENVIAR</div>\n<div style=\"font-weight:700;font-size:25px;margin-top:8px;line-height:1.25\">¿Envío la solicitud de reembolso?</div>\n<div style=\"display:flex;gap:10px;margin-top:16px\"><div style=\"flex:1;background:var(--pink);color:#fff;font-weight:700;font-size:21px;padding:10px;border-radius:12px;text-align:center\">Sí, envía</div><div style=\"flex:1;background:rgba(255,255,255,.08);font-size:21px;padding:10px;border-radius:12px;text-align:center\">No</div></div></div>\n<div class=sticker style=\"right:40px;top:20px;font-size:28px;transform:rotate(-5deg)\">app gratis ✦</div>",
+   "texto": "Usa su propio navegador para <b>cancelar suscripciones o vigilar precios</b>. Te pregunta antes de enviar o pagar.",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "Descárgala en <span class=v>nod.n8n.io</span> (Mac o Windows) → conecta tu ChatGPT o una API key."
+  },
+  {
+   "num": "02",
+   "etiqueta": "GEMINI",
+   "titulo": "Gemini <em>maneja contigo</em>",
+   "grafico": "<div class=win style=\"left:0;top:30px;width:620px;height:360px;border-radius:34px\">\n<div style=\"display:flex;height:100%\">\n<div style=\"width:90px;background:rgba(255,255,255,.05);display:flex;flex-direction:column;align-items:center;gap:22px;padding-top:30px\">\n<div style=\"width:52px;height:52px;border-radius:14px;background:rgba(255,255,255,.12)\"></div>\n<div style=\"width:52px;height:52px;border-radius:14px;background:linear-gradient(135deg,var(--pink),var(--vio));color:#fff;text-align:center;line-height:52px;font-size:28px\">✦</div>\n<div style=\"width:52px;height:52px;border-radius:14px;background:rgba(255,255,255,.12)\"></div></div>\n<div style=\"flex:1;padding:30px;display:flex;flex-direction:column;align-items:center;justify-content:center\">\n<div style=\"font-family:JB;font-size:18px;color:var(--mute)\">GEMINI LIVE · EN EL CARRO</div>\n<div style=\"display:flex;gap:10px;align-items:center;height:110px;margin-top:16px\">\n<div style=\"width:16px;height:40px;border-radius:9px;background:var(--vio)\"></div><div style=\"width:16px;height:80px;border-radius:9px;background:var(--pink)\"></div><div style=\"width:16px;height:110px;border-radius:9px;background:var(--pink)\"></div><div style=\"width:16px;height:70px;border-radius:9px;background:var(--vio)\"></div><div style=\"width:16px;height:96px;border-radius:9px;background:var(--pink)\"></div><div style=\"width:16px;height:46px;border-radius:9px;background:var(--vio)\"></div></div>\n<div style=\"margin-top:18px;font-size:24px;text-align:center;line-height:1.35\">\"Tienes 3 correos sin leer. El más urgente es…\"</div>\n</div></div></div>\n<div class=note style=\"right:0;top:50px;width:300px;transform:rotate(4deg);z-index:3\">Manos en el<br>volante ✓</div>\n<div class=sticker style=\"right:30px;top:290px;font-size:28px;transform:rotate(-4deg);z-index:4\">CarPlay ✦</div>",
+   "texto": "Ya está en Apple CarPlay. Le hablas y <b>te resume correos y tu agenda</b> sin soltar el volante.",
+   "caja_titulo": "PÍDELE ASÍ",
+   "caja_texto": "Ponme al día con mis <span class=v>correos sin leer</span> y dime qué tengo hoy."
+  },
+  {
+   "num": "03",
+   "etiqueta": "CLAUDE SHEETS",
+   "titulo": "Excel <em>con un prompt</em>",
+   "grafico": "<div class=win style=\"left:0;top:30px;width:640px;height:330px\">\n<div class=bar><i></i><i></i><i></i><span>Claude Sheets · Presupuesto</span></div>\n<div style=\"padding:18px 22px;font-family:JB;font-size:19px\">\n<div style=\"display:grid;grid-template-columns:1.6fr 1fr 1fr;border:2px solid var(--line);border-radius:12px;overflow:hidden\">\n<div style=\"padding:10px 12px;background:var(--lila);font-weight:500\">Gasto</div><div style=\"padding:10px 12px;background:var(--lila)\">Plan</div><div style=\"padding:10px 12px;background:var(--lila)\">Real</div>\n<div style=\"padding:10px 12px;border-top:2px solid var(--line)\">Arriendo</div><div style=\"padding:10px 12px;border-top:2px solid var(--line)\">800</div><div style=\"padding:10px 12px;border-top:2px solid var(--line)\">800</div>\n<div style=\"padding:10px 12px;border-top:2px solid var(--line)\">Mercado</div><div style=\"padding:10px 12px;border-top:2px solid var(--line)\">300</div><div style=\"padding:10px 12px;border-top:2px solid var(--line);color:var(--pink)\">340</div>\n<div style=\"padding:10px 12px;border-top:2px solid var(--line)\">Salidas</div><div style=\"padding:10px 12px;border-top:2px solid var(--line)\">150</div><div style=\"padding:10px 12px;border-top:2px solid var(--line)\">120</div>\n<div style=\"padding:10px 12px;border-top:2px solid var(--line);font-weight:500\">Total</div><div style=\"padding:10px 12px;border-top:2px solid var(--line);color:var(--pink2)\">=SUMA(B2:B4)</div><div style=\"padding:10px 12px;border-top:2px solid var(--line);font-weight:500\">1260</div>\n</div></div></div>\n<div class=win style=\"right:0;top:130px;width:300px;height:230px;padding:22px;transform:rotate(3deg);z-index:3\">\n<div style=\"font-family:JB;font-size:16px;color:var(--mute)\">PLAN VS. REAL</div>\n<div style=\"display:flex;align-items:flex-end;gap:14px;height:140px;margin-top:16px\">\n<div style=\"flex:1;height:100%;background:var(--lila);border-radius:8px\"></div><div style=\"flex:1;height:100%;background:var(--pink);border-radius:8px\"></div><div style=\"flex:1;height:38%;background:var(--lila);border-radius:8px\"></div><div style=\"flex:1;height:43%;background:var(--pink);border-radius:8px\"></div></div></div>\n<div class=sticker style=\"right:30px;top:20px;font-size:26px;transform:rotate(-5deg);z-index:4\">sale en .xlsx ✓</div>",
+   "texto": "Claude arma hojas de cálculo <b>con fórmulas y gráficas</b>. La bajas en Excel (planes pagos).",
+   "caja_titulo": "PÍDELE ASÍ",
+   "caja_texto": "Hazme un <span class=v>presupuesto mensual</span> con fórmulas y una gráfica de plan vs. real."
+  },
+  {
+   "num": "04",
+   "etiqueta": "CHATGPT WALLET",
+   "titulo": "ChatGPT <em>compra por ti</em>",
+   "grafico": "<div class=win style=\"left:0;top:30px;width:540px;height:345px\">\n<div class=bar><i></i><i></i><i></i><span>ChatGPT · Wallet</span></div>\n<div style=\"padding:24px 26px\">\n<div style=\"font-family:JB;font-size:17px;color:var(--mute)\">TU AGENTE ENCONTRÓ</div>\n<div style=\"display:flex;justify-content:space-between;align-items:center;margin-top:12px;background:rgba(255,255,255,.06);padding:16px 20px;border-radius:16px\"><div><b style=\"font-size:26px\">Tenis para correr</b><div style=\"font-size:18px;color:var(--mute)\">talla 38 · envío gratis</div></div><b style=\"font-family:Fr;font-size:40px\">$89</b></div>\n<div style=\"margin-top:16px;font-size:20px;color:var(--mute)\">Tarjeta guardada como token ••••</div>\n<div style=\"margin-top:18px;background:var(--pink);color:#fff;font-weight:700;font-size:22px;padding:14px;border-radius:14px;text-align:center\">Aprobar con Face ID</div>\n</div></div>\n<div class=win style=\"right:0;top:110px;width:340px;padding:22px;transform:rotate(3deg);z-index:3;text-align:center\">\n<div style=\"font-family:JB;font-size:16px;color:var(--mute)\">LA TIENDA NO VE</div>\n<div style=\"font-family:Fr;font-weight:900;font-size:46px;color:var(--pink);line-height:1.15\">tu tarjeta</div>\n<div style=\"font-size:20px;color:var(--mute)\">tú apruebas cada compra</div></div>\n<div class=note style=\"right:40px;top:10px;transform:rotate(-3deg);font-size:22px;z-index:4\">Por ahora: EE.UU.</div>",
+   "texto": "Su agente elige el producto y paga. <b>Tú apruebas con Face ID</b> y la tienda nunca ve tu tarjeta.",
+   "caja_titulo": "EL DATO",
+   "caja_texto": "Salió el 13 nov. Por ahora solo para <span class=v>ChatGPT Pro en EE.UU.</span> y mayores de 18."
+  }
+ ],
+ "cierre": {
+  "mini": "links",
+  "titulo": "¿Quieres el<br><em>link y los pasos?</em>",
+  "palabra": "AGENTE",
+  "promesa": "y te mando el link de Nod + los pasos por DM ✦",
+  "items": [
+   "Nod: tu agente gratis",
+   "Gemini en CarPlay",
+   "Claude Sheets",
+   "ChatGPT Wallet"
+  ]
+ }
+}
