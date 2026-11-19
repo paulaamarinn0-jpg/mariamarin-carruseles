@@ -1,0 +1,60 @@
+{
+ "serie": "noticias IA",
+ "portada": {
+  "hashtag": "#NOTICIASIA",
+  "sticker": "esta semana ✦",
+  "foto": "cocina.jpg",
+  "titulo": "Instagram ya caza a quien te <em style=\"font-style:italic;color:var(--pink)\">copia los reels.</em>",
+  "subtitulo": "+ 3 novedades de IA de esta semana que casi nadie vio"
+ },
+ "slides": [
+  {
+   "num": "01",
+   "etiqueta": "INSTAGRAM",
+   "titulo": "Te avisa si <em>te copian</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:620px;height:395px\">\n<div class=bar><i></i><i></i><i></i><span>Protección de contenido</span></div>\n<div style=\"padding:22px 26px\">\n <div style=\"font-family:JB;font-size:17px;color:var(--pink)\">✦ ENCONTRAMOS 1 COPIA</div>\n <div style=\"display:flex;gap:18px;margin-top:14px;align-items:center\">\n  <div style=\"width:110px;height:150px;border-radius:14px;background:linear-gradient(160deg,var(--vio),var(--pink));flex:none;display:flex;align-items:center;justify-content:center;font-size:40px;color:#fff\">▶</div>\n  <div><div style=\"font-weight:700;font-size:26px\">@cuenta.copiona</div><div style=\"font-size:21px;color:var(--mute);margin-top:6px\">48,2 mil vistas</div><div style=\"font-size:21px;color:var(--mute)\">120 mil seguidores</div></div></div>\n <div style=\"display:flex;gap:10px;margin-top:22px;flex-wrap:wrap\">\n  <span style=\"background:var(--pink);color:#fff;font-weight:700;font-size:20px;padding:10px 16px;border-radius:12px\">Ocultar para todos</span>\n  <span style=\"background:#fff;color:var(--bg);font-weight:700;font-size:20px;padding:10px 16px;border-radius:12px\">Agregar crédito</span>\n  <span style=\"border:2px solid var(--line);font-size:20px;padding:8px 16px;border-radius:12px\">Seguir</span></div>\n</div></div>\n<div class=win style=\"right:0;top:120px;width:320px;padding:20px 22px;transform:rotate(3deg);z-index:3\">\n <div style=\"font-family:JB;font-size:16px;color:var(--mute)\">ETIQUETA EN LA COPIA</div>\n <div style=\"font-weight:700;font-size:26px;margin-top:10px\">Original de <span style=\"color:var(--pink)\">@tú</span></div></div>\n<div class=sticker style=\"right:30px;top:20px;font-size:28px;transform:rotate(-4deg)\">en IG y Facebook</div>",
+   "texto": "Encuentra videos copiados de los tuyos y te deja <b>ocultarlos o ponerles tu crédito</b>.",
+   "caja_titulo": "DÓNDE ENCONTRARLO",
+   "caja_texto": "Inicio → <span class=v>Herramientas profesionales</span> → Protección de contenido (o pide acceso)."
+  },
+  {
+   "num": "02",
+   "etiqueta": "GEMINI",
+   "titulo": "Tus chats, <em>sin entrenar</em>",
+   "grafico": "<div class=win style=\"left:0;top:20px;width:640px;height:370px\">\n<div class=bar><i></i><i></i><i></i><span>Gemini · Configuración</span></div>\n<div style=\"padding:26px 28px\">\n <div style=\"display:flex;justify-content:space-between;align-items:center;padding:18px 0;border-bottom:2px solid var(--line)\"><div><div style=\"font-weight:700;font-size:27px\">Historial</div><div style=\"font-size:19px;color:var(--mute)\">Guarda tus chats</div></div><div style=\"width:84px;height:46px;border-radius:999px;background:var(--pink);position:relative\"><div style=\"position:absolute;right:5px;top:5px;width:36px;height:36px;border-radius:50%;background:#fff\"></div></div></div>\n <div style=\"display:flex;justify-content:space-between;align-items:center;padding:18px 0\"><div><div style=\"font-weight:700;font-size:27px\">Entrenar modelos de IA</div><div style=\"font-size:19px;color:var(--mute)\">Usar tus chats para mejorar Gemini</div></div><div style=\"width:84px;height:46px;border-radius:999px;background:rgba(255,255,255,.15);position:relative\"><div style=\"position:absolute;left:5px;top:5px;width:36px;height:36px;border-radius:50%;background:#fff\"></div></div></div>\n <div style=\"font-family:JB;font-size:18px;color:var(--pink);margin-top:14px\">✓ antes iban juntos, ahora separados</div>\n</div></div>\n<div class=note style=\"right:0;top:70px;width:290px;transform:rotate(4deg);z-index:3\">Historial: SÍ<br>Entrenar: NO<br>✓ privacidad</div>\n<div class=sticker style=\"right:40px;top:300px;font-size:26px;transform:rotate(-4deg);z-index:4\">llega a todo el mundo</div>",
+   "texto": "Ahora guardas tu historial <b>sin que tus chats entrenen la IA</b>. Llega en las próximas semanas.",
+   "caja_titulo": "EL DATO",
+   "caja_texto": "Si apagas el historial, Google igual guarda tus chats <span class=v>unos 2 meses</span> (antes eran 72 horas)."
+  },
+  {
+   "num": "03",
+   "etiqueta": "CHATGPT",
+   "titulo": "Dicta <em>sin límite</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:640px;height:395px\">\n<div class=bar><i></i><i></i><i></i><span>ChatGPT</span></div>\n<div style=\"padding:26px\">\n <div style=\"background:rgba(255,255,255,.08);padding:18px 22px;border-radius:20px;font-size:25px;line-height:1.45\">Necesito un guion para un reel sobre las novedades de IA de esta semana, que empiece con un gancho y que<span style=\"display:inline-block;width:3px;height:26px;background:var(--pink);margin-left:4px;vertical-align:middle\"></span></div>\n <div style=\"display:flex;align-items:center;gap:16px;margin-top:26px\">\n  <div style=\"flex:1;height:64px;border-radius:999px;border:2px solid var(--line);display:flex;align-items:center;gap:6px;padding:0 24px\"><i style=\"width:6px;height:18px;background:var(--pink);border-radius:3px;display:block\"></i><i style=\"width:6px;height:34px;background:var(--pink);border-radius:3px;display:block\"></i><i style=\"width:6px;height:24px;background:var(--pink);border-radius:3px;display:block\"></i><i style=\"width:6px;height:40px;background:var(--vio);border-radius:3px;display:block\"></i><i style=\"width:6px;height:20px;background:var(--vio);border-radius:3px;display:block\"></i><i style=\"width:6px;height:30px;background:var(--pink);border-radius:3px;display:block\"></i><span style=\"font-family:JB;font-size:19px;color:var(--mute);margin-left:12px\">escribiendo mientras hablas…</span></div>\n  <div style=\"width:64px;height:64px;border-radius:50%;background:var(--pink);color:#fff;display:flex;align-items:center;justify-content:center;font-family:JB;font-size:22px;font-weight:700\">mic</div></div>\n</div></div>\n<div class=sticker style=\"right:0;top:60px;font-size:30px;transform:rotate(5deg);z-index:3\">chao límite de 10 min</div>\n<div class=note style=\"right:30px;top:215px;width:280px;transform:rotate(-3deg);z-index:3;font-size:24px\">Habla de corrido:<br>sale en vivo ✓</div>",
+   "texto": "El dictado ahora escribe <b>en vivo mientras hablas</b> y ya no se corta a los 10 minutos.",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "Toca el <span class=v>micrófono</span> junto a la caja de texto (no el modo voz) y habla de corrido."
+  },
+  {
+   "num": "04",
+   "etiqueta": "SUNO",
+   "titulo": "Tu canción, <em>con video</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:640px;height:395px\">\n<div class=bar><i></i><i></i><i></i><span>Suno · Visuals</span></div>\n<div style=\"padding:22px 26px\">\n <div style=\"display:flex;align-items:center;gap:16px\"><div style=\"width:70px;height:70px;border-radius:14px;background:linear-gradient(135deg,var(--pink),var(--vio));display:flex;align-items:center;justify-content:center;font-size:30px;color:#fff\">♪</div><div><div style=\"font-weight:700;font-size:26px\">Mi canción de cumpleaños</div><div style=\"font-size:19px;color:var(--mute)\">de tu biblioteca</div></div></div>\n <div style=\"display:flex;gap:12px;margin-top:22px\"><div style=\"flex:1;height:150px;border-radius:14px;background:linear-gradient(160deg,#3a2160,var(--pink))\"></div><div style=\"flex:1;height:150px;border-radius:14px;background:linear-gradient(160deg,var(--vio),#3a2160)\"></div><div style=\"flex:1;height:150px;border-radius:14px;background:linear-gradient(160deg,var(--pink),var(--vio))\"></div></div>\n <div style=\"display:flex;justify-content:space-between;font-family:JB;font-size:18px;color:var(--mute);margin-top:12px\"><span>clip 1 · 0:15</span><span>clip 2 · 0:15</span><span>clip 3 · 0:15</span></div>\n</div></div>\n<div class=win style=\"right:0;top:120px;width:310px;padding:20px 22px;transform:rotate(-3deg);z-index:3\">\n <div style=\"font-family:JB;font-size:16px;color:var(--mute)\">PROMPT</div>\n <div style=\"font-size:22px;margin-top:8px;line-height:1.35\">Video de letras, colores neón, al ritmo del coro</div>\n <div style=\"margin-top:12px;background:var(--pink);color:#fff;font-weight:700;font-size:20px;padding:10px;border-radius:12px;text-align:center\">Crear video</div></div>\n<div class=sticker style=\"right:20px;top:10px;font-size:26px;transform:rotate(4deg);z-index:4\">lyric videos ✦</div>",
+   "texto": "Convierte tus canciones en <b>clips de video de 15 segundos</b> que puedes unir en uno largo.",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "Pestaña <span class=v>Visuals</span> → eliges una canción tuya → describes el video (créditos aparte)."
+  }
+ ],
+ "cierre": {
+  "mini": "pasos",
+  "titulo": "¿Quieres los<br><em>pasos de las 4?</em>",
+  "palabra": "COPIA",
+  "promesa": "y te mando los pasos + links por DM ✦",
+  "items": [
+   "Protección de contenido",
+   "Gemini sin entrenar",
+   "Dictado sin límite",
+   "Suno Visuals"
+  ]
+ }
+}
