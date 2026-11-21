@@ -1,0 +1,60 @@
+{
+ "serie": "noticias IA",
+ "portada": {
+  "hashtag": "#NOTICIASIA",
+  "sticker": "esta semana ✦",
+  "foto": "luz-roja.jpg",
+  "titulo": "Canva ya tiene un botón para <em style=\"font-style:italic;color:var(--pink)\">apagar la IA.</em>",
+  "subtitulo": "+ 3 lanzamientos de IA de esta semana que casi nadie vio"
+ },
+ "slides": [
+  {
+   "num": "01",
+   "etiqueta": "CANVA",
+   "titulo": "Un botón para <em>apagar la IA</em>",
+   "grafico": "<div class=win style=\"left:0;top:0;width:600px;height:410px\">\n<div class=bar><i></i><i></i><i></i><span>Canva · Configuración · Permisos</span></div>\n<div style=\"padding:18px 28px\">\n<div style=\"display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:2px solid var(--line)\"><b style=\"font-size:26px\">IA generativa</b><div style=\"width:80px;height:44px;border-radius:999px;background:rgba(255,255,255,.18);position:relative\"><div style=\"position:absolute;top:5px;left:5px;width:34px;height:34px;border-radius:50%;background:#fff\"></div></div></div>\n<div style=\"font-family:JB;font-size:17px;color:var(--mute);margin-top:12px\">SE APAGAN</div>\n<div style=\"font-size:22px;margin-top:8px;line-height:1.6;color:var(--mute)\"><s>Magic Write</s> · <s>Magic Design</s> · <s>Magic Expand</s> · <s>Dream Lab</s> · <s>Canva Code</s></div>\n<div style=\"font-family:JB;font-size:17px;color:var(--mute);margin-top:16px\">SIGUEN ACTIVAS</div>\n<div style=\"display:flex;gap:10px;margin-top:10px\"><span style=\"font-family:JB;font-size:19px;background:var(--pinks);color:var(--pink);padding:7px 14px;border-radius:999px\">✓ Quitar fondo</span><span style=\"font-family:JB;font-size:19px;background:var(--pinks);color:var(--pink);padding:7px 14px;border-radius:999px\">✓ Magic Grab</span></div>\n</div></div>\n<div class=sticker style=\"right:20px;top:60px;font-size:34px;transform:rotate(-5deg)\">modo 0 IA</div>\n<div class=note style=\"right:30px;top:220px;width:300px;transform:rotate(4deg)\">Gratis y Pro ✓<br>llega poco a poco</div>",
+   "texto": "Apaga Magic Write, Magic Design y compañía. <b>Quitar fondo sigue funcionando.</b>",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "Perfil → Configuración → <span class=v>Permisos</span> → apaga las funciones de IA generativa."
+  },
+  {
+   "num": "02",
+   "etiqueta": "GEMINI TASKS",
+   "titulo": "Gemini hace <em>tus vueltas</em>",
+   "grafico": "<div class=win style=\"left:0;top:0;width:620px;height:410px\">\n<div class=bar><i></i><i></i><i></i><span>Gemini</span></div>\n<div style=\"padding:22px 26px\">\n<div style=\"display:inline-flex;background:rgba(255,255,255,.08);border-radius:999px;padding:5px;font-size:22px;font-weight:700\"><span style=\"padding:8px 22px;color:var(--mute)\">Chat</span><span style=\"padding:8px 22px;background:var(--pink);border-radius:999px;color:#fff\">Task</span></div>\n<div style=\"margin-top:20px;margin-left:auto;width:max-content;max-width:480px;background:var(--lila);padding:14px 20px;border-radius:20px 20px 4px 20px;font-size:22px\">Busca el cargador USB-C más barato y aplica mi cupón</div>\n<div style=\"margin-top:16px;font-family:JB;font-size:18px;color:var(--mute);line-height:1.8\">✓ comparó 6 tiendas<br>✓ aplicó el cupón<br>→ ¿confirmas la compra?</div>\n<div style=\"display:flex;gap:12px;margin-top:10px\"><span style=\"background:#fff;color:var(--bg);font-weight:700;font-size:20px;padding:10px 20px;border-radius:12px\">Confirmar</span><span style=\"border:2px solid var(--line);font-size:20px;padding:10px 20px;border-radius:12px\">Cancelar</span></div>\n</div></div>\n<div class=sticker style=\"right:30px;top:40px;font-size:38px;transform:rotate(5deg)\">ya es gratis</div>\n<div class=note style=\"right:10px;top:200px;width:290px;transform:rotate(-3deg)\">antes solo en<br>AI Pro y Ultra</div>",
+   "texto": "Su agente ya es gratis: <b>compara precios, agenda y escribe correos.</b> Te pregunta antes de pagar.",
+   "caja_titulo": "EL DATO",
+   "caja_texto": "Gratis por ahora en <span class=v>EE.UU., Canadá, India, Japón, Corea y Australia</span>."
+  },
+  {
+   "num": "03",
+   "etiqueta": "GEMINI 4 NEON",
+   "titulo": "Llegó <em>Gemini 4 Neon</em>",
+   "grafico": "<div class=win style=\"left:0;top:0;width:610px;height:410px\">\n<div class=bar><i></i><i></i><i></i><span>Gemini · elige modelo</span></div>\n<div style=\"padding:16px 22px\">\n<div style=\"padding:14px 18px;border-radius:14px;font-size:23px;color:var(--mute)\">Auto</div>\n<div style=\"padding:14px 18px;border-radius:14px;font-size:23px;color:var(--mute)\">Para el día a día <span style=\"font-family:JB;font-size:17px\">· 4 Hydrogen</span></div>\n<div style=\"padding:14px 18px;border-radius:14px;font-size:23px;background:var(--pinks);border:2px solid var(--pink);display:flex;justify-content:space-between\"><span><b>Análisis profundo</b> <span style=\"font-family:JB;font-size:17px;color:var(--pink)\">· 4 Neon</span></span><span style=\"color:var(--pink)\">✓</span></div>\n<div style=\"padding:14px 18px;border-radius:14px;font-size:23px;color:var(--mute)\">Código y tareas complejas <span style=\"font-family:JB;font-size:17px\">· 4 Carbon</span></div>\n</div></div>\n<div class=win style=\"right:0;top:120px;width:320px;padding:20px 22px;transform:rotate(3deg);z-index:3\">\n<div style=\"font-family:JB;font-size:16px;color:var(--mute)\">FACTURA_LUZ_OCT.PDF</div>\n<div style=\"display:flex;align-items:flex-end;gap:12px;height:120px;margin-top:14px\"><div style=\"flex:1;height:45%;background:var(--vio);border-radius:8px\"></div><div style=\"flex:1;height:50%;background:var(--vio);border-radius:8px\"></div><div style=\"flex:1;height:100%;background:var(--pink);border-radius:8px\"></div></div>\n<div style=\"font-weight:700;font-size:21px;margin-top:12px\">↑ 2x en octubre: ¿por qué?</div></div>\n<div class=sticker style=\"right:40px;top:10px;font-size:30px;transform:rotate(-4deg)\">nuevo ✦</div>",
+   "texto": "El modelo nuevo de Google para <b>analizar PDFs, facturas y hojas de cálculo.</b> En AI Pro y Ultra.",
+   "caja_titulo": "PÍDELE ASÍ",
+   "caja_texto": "Revisa mis <span class=v>facturas de la luz</span> y dime por qué subió el cobro."
+  },
+  {
+   "num": "04",
+   "etiqueta": "GEMINI MAC",
+   "titulo": "Gemini usa <em>tu Mac</em>",
+   "grafico": "<div class=win style=\"left:0;top:0;width:600px;height:400px\">\n<div class=bar><i></i><i></i><i></i><span>Gemini para Mac</span></div>\n<div style=\"padding:22px 26px\">\n<div style=\"background:rgba(255,255,255,.08);padding:14px 18px;border-radius:16px;font-size:22px\"><span style=\"color:var(--pink);font-family:JB\">@Computer use</span> saca peso y dirección de estos PDFs y llena la cotización</div>\n<div style=\"margin-top:16px;border:2px dashed var(--pink);border-radius:16px;height:170px;position:relative;padding:14px\">\n<div style=\"font-family:JB;font-size:16px;color:var(--pink)\">● VISTA EN VIVO · ventana aparte</div>\n<div style=\"margin-top:12px;height:20px;width:70%;background:rgba(255,255,255,.14);border-radius:6px\"></div>\n<div style=\"margin-top:10px;height:20px;width:50%;background:rgba(255,255,255,.14);border-radius:6px\"></div>\n<div style=\"margin-top:10px;height:20px;width:60%;background:var(--lila);border-radius:6px\"></div>\n<div style=\"position:absolute;right:20px;bottom:16px;font-size:20px;background:#fff;color:var(--bg);font-weight:700;padding:8px 16px;border-radius:10px\">⏸ Pausar</div>\n</div></div></div>\n<div class=note style=\"right:10px;top:40px;width:300px;transform:rotate(4deg)\">tú sigues<br>trabajando ✓</div>\n<div class=sticker style=\"right:40px;top:270px;font-size:30px;transform:rotate(-5deg)\">te pide permiso</div>",
+   "texto": "Abre tus apps y llena formularios <b>en una ventana aparte</b> mientras tú sigues trabajando.",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "Escribe <span class=v>@Computer use</span> en el chat. Por ahora en inglés, EE.UU. y planes pagos."
+  }
+ ],
+ "cierre": {
+  "mini": "pasos",
+  "titulo": "¿Quieres los<br><em>pasos de las 4?</em>",
+  "palabra": "APAGAR",
+  "promesa": "y te mando los pasos + links por DM ✦",
+  "items": [
+   "Apagar la IA de Canva",
+   "Gemini Tasks gratis",
+   "Gemini 4 Neon",
+   "Gemini en tu Mac"
+  ]
+ }
+}
