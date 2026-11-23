@@ -1,0 +1,60 @@
+{
+ "serie": "noticias IA",
+ "portada": {
+  "hashtag": "#NOTICIASIA",
+  "sticker": "esta semana ✦",
+  "foto": "lentes.jpg",
+  "titulo": "ChatGPT ya hace documentos que <em style=\"font-style:italic;color:var(--pink)\">se actualizan solos.</em>",
+  "subtitulo": "+ 3 trucos de IA de esta semana (uno te ahorra plata en Black Friday)"
+ },
+ "slides": [
+  {
+   "num": "01",
+   "etiqueta": "CHATGPT SPACE",
+   "titulo": "Documentos que <em>se actualizan solos</em>",
+   "grafico": "<div class=win style=\"left:0;top:0;width:620px;height:410px\">\n<div class=bar><i></i><i></i><i></i><span>ChatGPT · Space</span></div>\n<div style=\"padding:20px 26px\">\n<div style=\"font-weight:700;font-size:28px\">Resumen semanal del equipo</div>\n<div style=\"font-family:JB;font-size:16px;color:var(--pink);margin-top:8px\">↻ ACTUALIZADO HOY 8:00 A.M.</div>\n<div style=\"margin-top:16px;height:18px;width:90%;background:rgba(255,255,255,.14);border-radius:6px\"></div>\n<div style=\"margin-top:10px;height:18px;width:75%;background:rgba(255,255,255,.14);border-radius:6px\"></div>\n<div style=\"margin-top:10px;height:18px;width:82%;background:var(--lila);border-radius:6px\"></div>\n<div style=\"display:flex;gap:10px;margin-top:22px;flex-wrap:wrap\"><span style=\"font-family:JB;font-size:18px;background:var(--pinks);color:var(--pink);padding:7px 14px;border-radius:999px\">fuente: Gmail</span><span style=\"font-family:JB;font-size:18px;background:var(--pinks);color:var(--pink);padding:7px 14px;border-radius:999px\">fuente: Slack</span><span style=\"font-family:JB;font-size:18px;border:2px solid var(--line);padding:7px 14px;border-radius:999px\">cada lunes</span></div>\n</div></div>\n<div class=sticker style=\"right:30px;top:40px;font-size:36px;transform:rotate(5deg)\">llegó a Plus</div>\n<div class=note style=\"right:10px;top:210px;width:290px;transform:rotate(-3deg)\">tú decides qué<br>revisa y cada cuánto</div>",
+   "texto": "ChatGPT Space llegó a Plus: <b>páginas que se refrescan solas</b> con tus apps conectadas.",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "Menú izquierdo → Space → crea una página y dile qué actualizar, de <span class=v>Gmail</span> y cada cuánto."
+  },
+  {
+   "num": "02",
+   "etiqueta": "GOOGLE · MODO IA",
+   "titulo": "Búsquedas <em>sin dejar rastro</em>",
+   "grafico": "<div class=win style=\"left:0;top:0;width:620px;height:410px\">\n<div class=bar><i></i><i></i><i></i><span>google.com/ai · Modo IA</span></div>\n<div style=\"padding:22px 26px;position:relative\">\n<div style=\"position:absolute;right:26px;top:16px;width:58px;height:58px;border-radius:50%;border:3px solid var(--pink);display:flex;align-items:center;justify-content:center;font-size:26px;color:var(--pink)\">◌</div>\n<div style=\"font-family:JB;font-size:17px;color:var(--pink)\">● CHAT TEMPORAL</div>\n<div style=\"margin-top:20px;margin-left:auto;width:max-content;max-width:440px;background:var(--lila);padding:14px 20px;border-radius:20px 20px 4px 20px;font-size:22px\">Ideas de regalo sorpresa para mi pareja</div>\n<div style=\"margin-top:18px;font-family:JB;font-size:18px;color:var(--mute);line-height:1.8\">✓ no usa tus búsquedas pasadas<br>✓ no queda en tu historial<br>✓ lo cierras y desaparece</div>\n</div></div>\n<div class=sticker style=\"right:20px;top:120px;font-size:34px;transform:rotate(-5deg)\">modo incógnito</div>\n<div class=note style=\"right:20px;top:260px;width:270px;transform:rotate(4deg)\">gratis y en<br>español ✓</div>",
+   "texto": "El Modo IA de Google ya tiene <b>chats temporales</b>: no se guardan ni cambian tus recomendaciones.",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "Entra a <span class=v>google.com/ai</span> → toca el ícono de chat temporal, arriba a la derecha."
+  },
+  {
+   "num": "03",
+   "etiqueta": "GEMINI NOTEBOOK",
+   "titulo": "Tus apuntes, hechos <em>página web</em>",
+   "grafico": "<div class=win style=\"left:0;top:0;width:600px;height:410px\">\n<div class=bar><i></i><i></i><i></i><span>Gemini Notebook</span></div>\n<div style=\"padding:20px 24px\">\n<div style=\"display:flex;gap:10px\"><span class=tag>apuntes.pdf</span><span class=tag>clase-3.docx</span></div>\n<div style=\"margin-top:18px;background:rgba(255,255,255,.08);padding:14px 18px;border-radius:16px;font-size:22px\"><span style=\"color:var(--pink);font-family:JB\">make me a site</span> con una línea de tiempo de la Independencia</div>\n<div style=\"margin-top:18px;display:flex;align-items:center;gap:0;padding:0 10px\"><div style=\"width:22px;height:22px;border-radius:50%;background:var(--pink)\"></div><div style=\"flex:1;height:4px;background:var(--line)\"></div><div style=\"width:22px;height:22px;border-radius:50%;background:var(--vio)\"></div><div style=\"flex:1;height:4px;background:var(--line)\"></div><div style=\"width:22px;height:22px;border-radius:50%;background:var(--pink)\"></div><div style=\"flex:1;height:4px;background:var(--line)\"></div><div style=\"width:22px;height:22px;border-radius:50%;background:var(--vio)\"></div></div>\n<div style=\"margin-top:22px;display:inline-block;background:#fff;color:var(--bg);font-weight:700;font-size:20px;padding:10px 20px;border-radius:12px\">Open in a new tab ↗</div>\n</div></div>\n<div class=sticker style=\"right:30px;top:50px;font-size:34px;transform:rotate(4deg)\">sin programar</div>\n<div class=note style=\"right:20px;top:220px;width:290px;transform:rotate(-4deg)\">cronogramas, tableros,<br>líneas de tiempo</div>",
+   "texto": "Gemini Notebook convierte tus fuentes en <b>un sitio interactivo que puedes compartir</b>.",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "En el chat del cuaderno escribe <span class=v>make me a site</span> + lo que quieres. Web, mayores de 18."
+  },
+  {
+   "num": "04",
+   "etiqueta": "GOOGLE SHOPPING",
+   "titulo": "Que Google te avise <em>cuando baje</em>",
+   "grafico": "<div class=win style=\"left:0;top:0;width:600px;height:410px\">\n<div class=bar><i></i><i></i><i></i><span>Google · Shopping</span></div>\n<div style=\"padding:22px 26px\">\n<div style=\"font-weight:700;font-size:26px\">Audífonos inalámbricos</div>\n<div style=\"display:flex;align-items:flex-end;gap:10px;height:130px;margin-top:16px\"><div style=\"flex:1;height:80%;background:var(--vio);border-radius:8px\"></div><div style=\"flex:1;height:95%;background:var(--vio);border-radius:8px\"></div><div style=\"flex:1;height:85%;background:var(--vio);border-radius:8px\"></div><div style=\"flex:1;height:40%;background:var(--pink);border-radius:8px\"></div></div>\n<div style=\"display:flex;justify-content:space-between;align-items:center;margin-top:18px;padding:12px 16px;border:2px solid var(--line);border-radius:14px\"><b style=\"font-size:22px\">Seguir precio</b><div style=\"width:80px;height:44px;border-radius:999px;background:var(--pink);position:relative\"><div style=\"position:absolute;top:5px;right:5px;width:34px;height:34px;border-radius:50%;background:#fff\"></div></div></div>\n</div></div>\n<div class=sticker style=\"right:30px;top:40px;font-size:34px;transform:rotate(-4deg)\">Black Friday ✦</div>\n<div class=note style=\"right:20px;top:210px;width:280px;transform:rotate(3deg)\">te llega aviso<br>si baja ✓</div>",
+   "texto": "Antes de comprar en Black Friday, <b>activa el seguimiento de precio</b> y espera el aviso.",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "Busca el producto en Google → elige talla/color → activa <span class=v>seguir precio</span>. Es gratis."
+  }
+ ],
+ "cierre": {
+  "mini": "pasos",
+  "titulo": "¿Quieres los<br><em>links de las 4?</em>",
+  "palabra": "LINKS",
+  "promesa": "y te mando los pasos + links por DM ✦",
+  "items": [
+   "ChatGPT Space",
+   "Chat temporal de Google",
+   "Gemini Notebook: sitios",
+   "Seguir precio en Google"
+  ]
+ }
+}
