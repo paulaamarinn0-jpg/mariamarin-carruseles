@@ -1,0 +1,60 @@
+{
+ "serie": "trucos de IA",
+ "portada": {
+  "hashtag": "#BLACKFRIDAY",
+  "sticker": "esta semana ✦",
+  "foto": "auto.png",
+  "titulo": "Gemini ya llama a las tiendas <em style=\"font-style:italic;color:var(--pink)\">por ti.</em>",
+  "subtitulo": "+ 3 trucos de IA para comprar mejor este Black Friday"
+ },
+ "slides": [
+  {
+   "num": "01",
+   "etiqueta": "GEMINI · TASKS",
+   "titulo": "Llama a la tienda <em>por ti</em>",
+   "grafico": "<div class=win style=\"left:0;top:0;width:620px;height:410px\">\n<div class=bar><i></i><i></i><i></i><span>Gemini · Task</span></div>\n<div style=\"padding:20px 26px\">\n<div style=\"display:inline-flex;border:2px solid var(--line);border-radius:999px;overflow:hidden;font-family:JB;font-size:18px\"><span style=\"padding:6px 16px;color:var(--mute)\">Chat</span><span style=\"padding:6px 16px;background:var(--pink);color:#fff\">Task</span></div>\n<div style=\"margin-top:16px;margin-left:auto;width:max-content;max-width:470px;background:var(--lila);padding:12px 18px;border-radius:20px 20px 4px 20px;font-size:21px\">Llama a la tienda y pregunta si tienen la talla M</div>\n<div style=\"margin-top:18px;display:flex;align-items:center;gap:14px\"><div style=\"width:54px;height:54px;border-radius:50%;background:linear-gradient(135deg,var(--pink),var(--vio));display:flex;align-items:center;justify-content:center;font-size:26px;color:#fff\">✆</div><div><div style=\"font-weight:700;font-size:22px\">Llamando a la tienda…</div><div style=\"font-family:JB;font-size:16px;color:var(--pink);margin-top:4px\">● EN LLAMADA 00:42</div></div></div>\n<div style=\"margin-top:16px;font-family:JB;font-size:17px;color:var(--mute);line-height:1.7\">✓ resumen de la llamada<br>✓ transcripción completa</div>\n</div></div>\n<div class=sticker style=\"right:20px;top:40px;font-size:34px;transform:rotate(5deg)\">tú no hablas</div>\n<div class=note style=\"right:10px;top:210px;width:290px;transform:rotate(-3deg)\">dice que es una<br>IA de Google ✓</div>",
+   "texto": "Gemini <b>llama al negocio</b>, pregunta o agenda, y te deja el resumen y la transcripción.",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "Pasa de Chat a <span class=v>Task</span> y pide: «llama y pregunta si tienen…». Por ahora solo en EE. UU."
+  },
+  {
+   "num": "02",
+   "etiqueta": "CHATGPT · GPT-6.2",
+   "titulo": "Te avisa <em>cuando baje</em>",
+   "grafico": "<div class=win style=\"left:0;top:0;width:620px;height:410px\">\n<div class=bar><i></i><i></i><i></i><span>ChatGPT · GPT-6.2 Sol</span></div>\n<div style=\"padding:20px 26px\">\n<div style=\"margin-left:auto;width:max-content;max-width:460px;background:var(--lila);padding:12px 18px;border-radius:20px 20px 4px 20px;font-size:21px\">¿Estos audífonos están en oferta?</div>\n<div style=\"display:flex;gap:12px;margin-top:16px\"><div style=\"width:42px;height:42px;border-radius:50%;background:linear-gradient(135deg,var(--pink),var(--vio));flex:none;color:#fff;display:flex;align-items:center;justify-content:center;font-size:20px\">✦</div><div style=\"background:rgba(255,255,255,.08);padding:12px 16px;border-radius:4px 18px 18px 18px;font-size:20px;line-height:1.35\">Hoy no tienen descuento real. ¿Quieres que te avise si el precio baja?</div></div>\n<div style=\"display:flex;gap:10px;margin-top:18px;margin-left:56px\"><span style=\"background:var(--pink);color:#fff;font-weight:700;font-size:19px;padding:9px 18px;border-radius:12px\">Sí, avísame</span><span style=\"border:2px solid var(--line);font-size:19px;padding:7px 16px;border-radius:12px\">No, gracias</span></div>\n</div></div>\n<div class=sticker style=\"right:30px;top:50px;font-size:34px;transform:rotate(-4deg)\">nuevo modelo</div>\n<div class=note style=\"right:20px;top:220px;width:270px;transform:rotate(3deg)\">te lo ofrece<br>solito ✓</div>",
+   "texto": "El nuevo modelo del chat <b>puede ofrecerte avisarte</b> si el precio de algo baja.",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "En Plus o superior pregunta: ¿<span class=v>este producto</span> está en oferta? Si te ofrece el aviso, dale sí."
+  },
+  {
+   "num": "03",
+   "etiqueta": "FOTO + IA",
+   "titulo": "Lee la <em>letra pequeña</em>",
+   "grafico": "<div class=win style=\"left:0;top:0;width:600px;height:410px\">\n<div class=bar><i></i><i></i><i></i><span>foto-garantia.jpg</span></div>\n<div style=\"padding:20px 26px\">\n<div style=\"background:#fff;color:var(--dk);border-radius:12px;padding:14px 18px;transform:rotate(-1deg)\"><div style=\"font-weight:700;font-size:20px\">TÉRMINOS Y CONDICIONES</div><div style=\"margin-top:8px;height:8px;width:95%;background:#ddd;border-radius:4px\"></div><div style=\"margin-top:6px;height:8px;width:88%;background:#ddd;border-radius:4px\"></div><div style=\"margin-top:6px;height:8px;width:70%;background:var(--pink);opacity:.6;border-radius:4px\"></div><div style=\"margin-top:6px;height:8px;width:80%;background:#ddd;border-radius:4px\"></div></div>\n<div style=\"margin-top:18px;font-family:JB;font-size:18px;line-height:1.75\"><span style=\"color:var(--pink)\">⚠</span> garantía solo 30 días<br><span style=\"color:var(--pink)\">⚠</span> envío no reembolsable<br><span style=\"color:var(--pink)\">⚠</span> descuento no aplica con tarjeta</div>\n</div></div>\n<div class=sticker style=\"right:30px;top:50px;font-size:34px;transform:rotate(4deg)\">gratis ✦</div>\n<div class=note style=\"right:20px;top:220px;width:280px;transform:rotate(-4deg)\">sirve en ChatGPT<br>y en Gemini</div>",
+   "texto": "Tómale foto a la etiqueta, la garantía o las condiciones y <b>que la IA te diga la trampa</b>.",
+   "caja_titulo": "PÍDELE ASÍ",
+   "caja_texto": "¿Qué costos extra, límites o trampas tiene <span class=v>esta garantía</span>? Dímelo corto y directo."
+  },
+  {
+   "num": "04",
+   "etiqueta": "COMPARAR",
+   "titulo": "Compara con <em>tus</em> reglas",
+   "grafico": "<div class=win style=\"left:0;top:0;width:620px;height:410px\">\n<div class=bar><i></i><i></i><i></i><span>Comparación</span></div>\n<div style=\"padding:20px 22px\">\n<div style=\"display:grid;grid-template-columns:1.3fr 1fr 1fr 1fr;gap:8px;font-size:19px\"><div style=\"font-family:JB;color:var(--mute)\"></div><div style=\"font-weight:700\">Cel A</div><div style=\"font-weight:700\">Cel B</div><div style=\"font-weight:700\">Cel C</div>\n<div style=\"font-family:JB;color:var(--mute);font-size:16px\">PRECIO + ENVÍO</div><div>$1,2M</div><div style=\"color:var(--pink);font-weight:700\">$1,0M</div><div>$1,1M</div>\n<div style=\"font-family:JB;color:var(--mute);font-size:16px\">GARANTÍA</div><div>1 año</div><div>6 meses</div><div style=\"color:var(--pink);font-weight:700\">2 años</div>\n<div style=\"font-family:JB;color:var(--mute);font-size:16px\">BATERÍA</div><div style=\"color:var(--pink);font-weight:700\">5000</div><div>4500</div><div>4800</div></div>\n<div style=\"margin-top:22px;background:var(--pinks);color:var(--pink);font-family:JB;font-size:18px;padding:10px 14px;border-radius:12px\">✓ Para ti: Cel C (más garantía)</div>\n</div></div>\n<div class=sticker style=\"right:30px;top:40px;font-size:34px;transform:rotate(-5deg)\">en tabla</div>\n<div class=note style=\"right:20px;top:220px;width:280px;transform:rotate(4deg)\">lo que te importa<br>a ti, no al anuncio</div>",
+   "texto": "Pídele una tabla con lo que a ti te importa y <b>no te dejes llevar por el % de descuento</b>.",
+   "caja_titulo": "PÍDELE ASÍ",
+   "caja_texto": "Compara <span class=v>estos 3 celulares</span> en tabla: precio con envío, garantía y batería."
+  }
+ ],
+ "cierre": {
+  "mini": "prompts",
+  "titulo": "¿Quieres los<br><em>4 prompts?</em>",
+  "palabra": "COMPRAS",
+  "promesa": "y te mando los prompts por DM ✦",
+  "items": [
+   "Gemini llama por ti",
+   "Aviso de precio en ChatGPT",
+   "Letra pequeña con foto",
+   "Tabla para comparar"
+  ]
+ }
+}
