@@ -1,0 +1,60 @@
+{
+ "serie": "claude hacks",
+ "portada": {
+  "hashtag": "#CLAUDEHACKS",
+  "sticker": "esta semana ✦",
+  "foto": "cocina.jpg",
+  "titulo": "Claude ya convierte tus chats en <em style=\"font-style:italic;color:var(--pink)\">apps de verdad.</em>",
+  "subtitulo": "+ 2 funciones escondidas en Ajustes que casi nadie ha abierto"
+ },
+ "slides": [
+  {
+   "num": "01",
+   "etiqueta": "INSTALAR COMO APP",
+   "titulo": "Tu chat, <em>hecho app</em>",
+   "grafico": "<div class=win style=\"left:0;top:0;width:560px;height:410px\"><div class=bar><i></i><i></i><i></i><span>Claude · artifact</span></div><div style=\"padding:22px 26px\"><b style=\"font-family:Fr;font-size:30px\">Mis gastos del mes</b><div style=\"display:flex;align-items:flex-end;gap:16px;height:150px;margin-top:20px\"><div style=\"flex:1;height:60%;background:var(--vio);border-radius:10px\"></div><div style=\"flex:1;height:85%;background:var(--pink);border-radius:10px\"></div><div style=\"flex:1;height:40%;background:var(--vio);border-radius:10px\"></div><div style=\"flex:1;height:70%;background:var(--pink);border-radius:10px\"></div></div><div style=\"margin-top:22px;display:inline-flex;gap:10px;background:rgba(255,255,255,.08);padding:10px 16px;border-radius:12px;font-size:21px\">Compartir ▾</div></div></div><div class=win style=\"left:330px;top:250px;width:290px;padding:14px;z-index:3;transform:rotate(-2deg)\"><div style=\"font-size:20px;color:var(--mute);padding:8px 10px\">Copiar link</div><div style=\"font-size:22px;font-weight:700;background:var(--pink);color:#fff;padding:10px 12px;border-radius:10px\">✦ Install as app</div></div><div style=\"position:absolute;right:30px;top:40px;width:250px;text-align:center\"><div style=\"width:150px;height:150px;margin:0 auto;border-radius:36px;background:linear-gradient(135deg,var(--pink),var(--vio));display:flex;align-items:center;justify-content:center;font-family:Fr;font-weight:900;font-size:70px;color:#fff;box-shadow:0 20px 40px rgba(123,77,255,.4)\">$</div><div style=\"font-family:JB;font-size:20px;margin-top:14px\">Mis gastos</div><div style=\"font-family:JB;font-size:16px;color:var(--mute);margin-top:4px\">en tu escritorio</div></div><div class=note style=\"right:20px;top:300px;transform:rotate(4deg);font-size:24px\">Mac y Windows ✓</div>",
+   "texto": "Ese tablero o calculadora que te hizo Claude <b>se instala con su propio ícono</b> y se abre como cualquier programa.",
+   "caja_titulo": "CÓMO PROBARLO",
+   "caja_texto": "App de escritorio → abre tu <span class=v>artifact</span> → Compartir → \"Install as app\". Beta, incluso gratis."
+  },
+  {
+   "num": "02",
+   "etiqueta": "PERMISOS",
+   "titulo": "Te <em>avisa</em> y flota",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:520px;height:390px\"><div class=bar><i></i><i></i><i></i><span>Recordatorio de agua</span></div><div style=\"padding:24px 26px\"><div style=\"font-size:22px;color:var(--mute)\">¿Esta app puede…?</div><div style=\"display:flex;justify-content:space-between;align-items:center;margin-top:18px;font-size:23px\"><span>Enviar notificaciones</span><span style=\"background:var(--pink);color:#fff;font-weight:700;padding:6px 14px;border-radius:10px;font-size:19px\">Allow</span></div><div style=\"display:flex;justify-content:space-between;align-items:center;margin-top:16px;font-size:23px\"><span>Atajo de teclado</span><span style=\"background:var(--pink);color:#fff;font-weight:700;padding:6px 14px;border-radius:10px;font-size:19px\">Allow</span></div><div style=\"display:flex;justify-content:space-between;align-items:center;margin-top:16px;font-size:23px\"><span>Flotar sobre ventanas</span><span style=\"background:var(--pink);color:#fff;font-weight:700;padding:6px 14px;border-radius:10px;font-size:19px\">Allow</span></div><div style=\"display:flex;justify-content:space-between;align-items:center;margin-top:16px;font-size:23px\"><span>Ícono en la barra</span><span style=\"border:2px solid var(--line);padding:5px 12px;border-radius:10px;font-size:19px;color:var(--mute)\">Don't allow</span></div></div></div><div class=win style=\"right:0;top:40px;width:380px;padding:20px 22px;transform:rotate(3deg);z-index:3\"><div style=\"font-family:JB;font-size:16px;color:var(--mute)\">AHORA · TU APP</div><div style=\"font-weight:700;font-size:26px;margin-top:8px;line-height:1.25\">Toma agua, María ✦</div><div style=\"margin-top:10px;font-size:19px;color:var(--pink);font-weight:700\">Listo ✓</div></div><div class=sticker style=\"right:60px;top:250px;font-size:32px;transform:rotate(-4deg)\">tú decides ✓</div>",
+   "texto": "Ya instalada, le das permiso de <b>mandarte notificaciones</b>, usar un atajo o quedarse encima de tus ventanas.",
+   "caja_titulo": "PÍDELE ASÍ",
+   "caja_texto": "Hazme una app que me recuerde <span class=v>tomar agua cada hora</span> con una notificación."
+  },
+  {
+   "num": "03",
+   "etiqueta": "REFLECT",
+   "titulo": "Tu <em>resumen</em> del mes",
+   "grafico": "<div class=win style=\"left:0;top:0;width:600px;height:410px\"><div class=bar><i></i><i></i><i></i><span>Ajustes · Bienestar · Reflect</span></div><div style=\"padding:22px 26px\"><div style=\"display:flex;justify-content:space-between;align-items:center\"><b style=\"font-family:Fr;font-size:30px\">Tu mes con Claude</b><span style=\"font-family:JB;font-size:17px;background:var(--lila);color:#d9c8ff;padding:6px 12px;border-radius:999px\">Past month ▾</span></div><div style=\"display:flex;gap:14px;margin-top:20px\"><div style=\"flex:1;background:rgba(255,255,255,.08);border-radius:16px;padding:14px\"><div style=\"font-family:JB;font-size:15px;color:var(--mute)\">CHATS</div><div style=\"font-family:Fr;font-weight:900;font-size:44px\">86</div></div><div style=\"flex:1;background:rgba(255,255,255,.08);border-radius:16px;padding:14px\"><div style=\"font-family:JB;font-size:15px;color:var(--mute)\">DÍA TOP</div><div style=\"font-family:Fr;font-weight:900;font-size:44px\">Mar</div></div><div style=\"flex:1;background:rgba(255,255,255,.08);border-radius:16px;padding:14px\"><div style=\"font-family:JB;font-size:15px;color:var(--mute)\">HORA PICO</div><div style=\"font-family:Fr;font-weight:900;font-size:44px\">9pm</div></div></div><div style=\"display:flex;gap:10px;margin-top:20px;flex-wrap:wrap\"><span style=\"font-family:JB;font-size:18px;background:var(--pinks);color:var(--pink);padding:7px 14px;border-radius:999px\">guiones</span><span style=\"font-family:JB;font-size:18px;background:var(--pinks);color:var(--pink);padding:7px 14px;border-radius:999px\">Excel</span><span style=\"font-family:JB;font-size:18px;background:var(--pinks);color:var(--pink);padding:7px 14px;border-radius:999px\">viajes</span></div></div></div><div class=note style=\"right:0;top:90px;width:300px;transform:rotate(4deg)\">te dice en qué<br>la usas bien y<br>en qué mejorar</div>",
+   "texto": "Ve de qué hablaste, tu día y hora más activos, y <b>consejos para usarla mejor</b>. No gasta tu límite.",
+   "caja_titulo": "DÓNDE ENCONTRARLO",
+   "caja_texto": "Web o escritorio → Ajustes → <span class=v>Bienestar</span> → Reflect → \"View\". Con memoria activada."
+  },
+  {
+   "num": "04",
+   "etiqueta": "BIENESTAR",
+   "titulo": "Que te <em>mande a descansar</em>",
+   "grafico": "<div class=win style=\"left:0;top:10px;width:580px;height:390px\"><div class=bar><i></i><i></i><i></i><span>Ajustes · Bienestar</span></div><div style=\"padding:24px 26px\"><b style=\"font-size:26px\">Recordatorio de pausa</b><div style=\"margin-top:12px;display:inline-block;font-family:JB;font-size:20px;background:rgba(255,255,255,.08);padding:10px 16px;border-radius:12px\">después de 2 horas al día ▾</div><div style=\"margin-top:26px\"><b style=\"font-size:26px\">Horas de silencio</b></div><div style=\"display:grid;grid-template-columns:repeat(7,1fr);gap:8px;margin-top:12px\"><div style=\"height:56px;border-radius:12px;background:var(--pink);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:22px\">L</div><div style=\"height:56px;border-radius:12px;background:var(--pink);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:22px\">M</div><div style=\"height:56px;border-radius:12px;background:var(--pink);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:22px\">M</div><div style=\"height:56px;border-radius:12px;background:var(--pink);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:22px\">J</div><div style=\"height:56px;border-radius:12px;background:var(--pink);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:22px\">V</div><div style=\"height:56px;border-radius:12px;background:rgba(255,255,255,.08);color:var(--mute);display:flex;align-items:center;justify-content:center;font-weight:700;font-size:22px\">S</div><div style=\"height:56px;border-radius:12px;background:rgba(255,255,255,.08);color:var(--mute);display:flex;align-items:center;justify-content:center;font-weight:700;font-size:22px\">D</div></div><div style=\"font-family:JB;font-size:19px;color:var(--mute);margin-top:14px\">11:00 p.m. → 7:00 a.m.</div></div></div><div class=win style=\"right:0;top:130px;width:340px;padding:22px;transform:rotate(3deg);z-index:3\"><div style=\"font-family:JB;font-size:16px;color:var(--mute)\">11:04 P.M.</div><div style=\"font-weight:700;font-size:25px;margin-top:8px;line-height:1.25\">Es tu hora de silencio. ¿Seguimos mañana? ✦</div><div style=\"margin-top:12px;font-size:19px;color:var(--pink);font-weight:700\">Continuar · Volver luego</div></div><div class=sticker style=\"right:30px;top:20px;font-size:28px;transform:rotate(-5deg)\">adiós 2 a.m. zzz</div>",
+   "texto": "Pones un <b>aviso de pausa</b> por tiempo de uso y horas de silencio. Aplica en web, escritorio y celular.",
+   "caja_titulo": "DÓNDE ENCONTRARLO",
+   "caja_texto": "Ajustes → <span class=v>Bienestar</span> → Break reminders y Quiet hours. Gratis, en beta."
+  }
+ ],
+ "cierre": {
+  "mini": "pasos",
+  "titulo": "¿Quieres los<br><em>pasos y prompts?</em>",
+  "palabra": "APP",
+  "promesa": "y te mando la guía completa por DM ✦",
+  "items": [
+   "Instalar como app",
+   "Permisos y avisos",
+   "Tu resumen Reflect",
+   "Pausas y silencio"
+  ]
+ }
+}
